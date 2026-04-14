@@ -153,5 +153,3 @@ python notebooks/03_powerbi_export.py
 | Matplotlib / Seaborn | 8 analytical visualizations |
 | Power BI | 4-page interactive business dashboard |
 | GitHub | Version control + portfolio |
-
----
