@@ -1,0 +1,3040 @@
+CustomerID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Total,Segment,Value_Tier,Is_At_Risk,Is_Champion,Is_Lost,Monetary_Band
+12000,154,3,1995.62,3,3,4,10,Loyal Customers,High Value,0,0,0,£500-2K
+12001,395,2,613.93,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+12003,708,1,1042.81,1,1,3,5,Needs Attention,Low Value,0,0,0,£500-2K
+12004,144,1,103.3,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+12005,20,1,417.1,5,1,2,8,New Customers,Medium Value,0,0,0,<£500
+12006,1,6,5844.08,5,4,4,13,Champions,Champions,0,1,0,£5K-10K
+12007,14,14,36623.16,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12008,157,1,643.1,3,1,2,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12010,58,4,3002.23,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+12012,65,2,645.05,4,2,2,8,New Customers,Medium Value,0,0,0,£500-2K
+12013,229,2,209.6,2,2,1,5,Lost,Low Value,0,0,1,<£500
+12014,402,2,1356.09,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12017,130,1,10.84,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+12018,257,5,3315.28,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+12021,213,6,4457.92,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+12022,180,1,19.7,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+12023,399,1,67.92,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12024,404,1,500.82,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+12025,409,1,1144.51,1,1,3,5,Needs Attention,Low Value,0,0,0,£500-2K
+12026,134,1,114.4,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+12027,53,9,9454.31,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12029,260,1,145.86,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12030,337,2,1343.51,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12031,1,2,1015.97,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+12032,391,2,694.75,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+12033,124,1,202.73,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+12035,30,4,1645.3,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+12036,93,1,110.01,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+12038,3,4,1427.09,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+12040,97,3,1109.6,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+12041,75,7,6221.31,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12043,208,3,1431.84,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+12044,17,3,1894.57,5,3,4,12,Loyal Customers,Champions,0,0,0,£500-2K
+12045,65,17,47367.05,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12049,142,8,5930.08,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+12050,10,3,3976.43,5,3,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+12051,194,8,7401.05,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+12052,738,1,36.6,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12054,4,6,2301.1,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+12055,16,6,5641.91,5,4,4,13,Champions,Champions,0,1,0,£5K-10K
+12056,67,1,12.04,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+12057,20,4,1681.74,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+12061,44,9,8906.74,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12062,32,14,33912.35,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12064,113,2,305.46,3,2,2,7,Needs Attention,Medium Value,0,0,0,<£500
+12065,91,10,10418.27,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+12066,2,6,7904.85,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+12067,3,14,41161.24,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12068,27,4,3043.4,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+12070,98,1,179.3,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+12071,308,3,601.41,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+12076,23,9,21646.48,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12078,449,2,1026.36,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12080,3,3,1918.51,5,3,4,12,Loyal Customers,Champions,0,0,0,£500-2K
+12083,426,2,1430.8,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12087,32,6,5675.71,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+12088,701,1,95.49,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12089,14,2,902.29,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+12090,12,6,18555.6,5,4,5,14,Champions,Champions,0,1,0,£10K+
+12091,173,3,2382.95,3,3,4,10,Loyal Customers,High Value,0,0,0,£2K-5K
+12092,349,1,957.33,2,1,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12094,22,1,1009.43,5,1,3,9,New Customers,High Value,0,0,0,£500-2K
+12096,7,23,58371.53,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12097,36,2,849.47,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+12098,85,2,1332.47,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+12099,26,4,1731.86,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+12100,132,5,4558.98,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12101,275,4,3514.77,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+12103,1,4,1012.44,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+12104,63,4,2541.66,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+12105,136,4,2436.95,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12108,366,1,142.71,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12109,93,1,118.3,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+12110,5,5,4295.39,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+12112,224,6,6206.44,2,4,5,11,At Risk,High Value,1,0,0,£5K-10K
+12113,147,4,1176.98,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12114,633,1,496.9,1,1,2,4,Lost,Low Value,0,0,1,<£500
+12115,127,3,1441.66,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+12116,10,5,7582.77,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+12117,180,1,127.89,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+12118,50,10,11609.03,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12120,17,4,3553.64,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+12121,28,8,7583.98,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+12123,48,4,3239.92,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+12125,13,1,259.77,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+12126,51,5,4679.65,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+12128,452,2,1611.53,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12130,123,4,5488.08,3,4,4,11,Loyal Customers,High Value,0,0,0,£5K-10K
+12132,2,12,40983.48,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12134,91,1,272.22,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+12139,59,4,3403.85,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+12140,7,5,2815.85,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+12141,239,1,552.12,2,1,2,5,Lost,Low Value,0,0,1,£500-2K
+12142,324,3,1509.5,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+12143,441,1,775.6,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+12144,624,1,114.12,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12145,76,9,8361.65,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12147,386,4,4175.49,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+12148,34,3,1192.52,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12151,65,1,65.38,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+12153,61,5,4768.86,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+12155,220,8,8358.97,2,5,5,12,At Risk,Champions,1,0,0,£5K-10K
+12156,63,3,2209.81,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12157,108,2,1184.19,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+12158,41,13,34194.62,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12159,2,3,2188.28,5,3,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+12162,24,3,1238.47,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+12163,21,27,73487.67,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12164,25,2,1483.69,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+12165,11,3,1127.47,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+12167,6,11,10285.02,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12169,358,4,3436.9,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+12171,193,3,1029.97,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+12172,447,1,35.51,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12173,405,2,728.3,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+12175,9,3,3352.83,5,3,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+12176,87,12,13985.03,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12180,341,1,226.86,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12182,14,6,7292.84,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+12183,14,2,450.73,5,2,2,9,New Customers,High Value,0,0,0,<£500
+12184,519,1,752.53,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+12185,382,1,140.28,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12186,668,1,183.13,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12187,52,7,9906.27,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12190,82,3,1159.91,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12191,273,4,4283.95,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+12192,7,6,6275.51,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+12193,96,2,1026.44,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+12194,188,1,523.03,3,1,2,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12197,582,1,707.06,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+12198,49,2,1024.12,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+12200,582,2,598.46,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+12201,375,1,390.06,2,1,2,5,Lost,Low Value,0,0,1,<£500
+12203,226,3,2814.41,2,3,4,9,At Risk,High Value,1,0,0,£2K-5K
+12204,4,7,5658.2,5,5,4,14,Champions,Champions,0,1,0,£5K-10K
+12206,43,7,2492.02,4,5,4,13,Champions,Champions,0,1,0,£2K-5K
+12207,223,1,142.49,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12208,20,18,47868.15,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12210,441,1,336.21,1,1,2,4,Lost,Low Value,0,0,1,<£500
+12211,10,6,5961.59,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+12213,76,3,1076.23,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12214,29,1,450.07,5,1,2,8,New Customers,Medium Value,0,0,0,<£500
+12215,89,6,6843.59,3,4,5,12,Loyal Customers,Champions,0,0,0,£5K-10K
+12216,11,7,5074.33,5,5,4,14,Champions,Champions,0,1,0,£5K-10K
+12218,23,3,2990.58,5,3,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+12220,8,17,45658.69,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12221,731,1,809.17,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+12222,6,7,6771.09,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+12223,316,6,2834.63,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+12225,67,9,8596.71,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12227,430,1,742.97,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+12229,17,2,590.61,5,2,2,9,New Customers,High Value,0,0,0,£500-2K
+12232,436,1,173.91,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12233,59,5,5375.81,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+12234,195,4,4526.0,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12236,127,4,1572.06,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12237,10,3,1264.59,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+12238,38,1,270.37,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+12239,133,3,1160.58,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+12241,384,2,127.09,2,2,1,5,Lost,Low Value,0,0,1,<£500
+12242,451,1,123.97,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12244,48,13,26277.4,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12246,5,2,624.51,5,2,2,9,New Customers,High Value,0,0,0,£500-2K
+12247,164,4,2028.48,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12250,1,2,916.65,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+12251,98,3,1704.72,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+12253,103,5,1585.48,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12254,23,3,1981.46,5,3,4,12,Loyal Customers,Champions,0,0,0,£500-2K
+12255,174,1,89.03,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+12257,65,2,303.78,4,2,2,8,New Customers,Medium Value,0,0,0,<£500
+12260,23,3,1259.32,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+12261,149,4,2295.58,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12263,521,3,1201.96,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+12264,107,1,248.38,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+12271,279,8,8677.96,2,5,5,12,At Risk,Champions,1,0,0,£5K-10K
+12272,111,2,1050.53,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+12273,468,1,86.85,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12274,108,3,1924.27,3,3,4,10,Loyal Customers,High Value,0,0,0,£500-2K
+12276,493,2,555.27,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+12278,1,9,10016.78,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12279,734,1,39.4,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12280,402,2,205.32,1,2,1,4,Lost,Low Value,0,0,1,<£500
+12281,3,6,3465.02,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+12282,89,3,2269.1,3,3,4,10,Loyal Customers,High Value,0,0,0,£2K-5K
+12283,456,1,177.7,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12284,701,1,351.85,1,1,2,4,Lost,Low Value,0,0,1,<£500
+12285,41,1,666.04,4,1,2,7,New Customers,Medium Value,0,0,0,£500-2K
+12287,380,2,550.32,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+12289,656,2,558.13,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+12290,120,3,1292.58,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+12292,341,1,19.81,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12293,24,1,65.44,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+12294,27,2,920.12,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+12295,148,3,1258.93,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+12296,279,4,5793.7,2,4,4,10,At Risk,High Value,1,0,0,£5K-10K
+12297,233,2,823.03,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12298,12,24,67735.84,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12299,9,18,45424.25,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12301,113,2,603.66,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12304,529,2,626.2,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+12305,28,5,4277.13,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+12306,596,1,9.05,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12307,377,1,216.16,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12308,560,1,395.61,1,1,2,4,Lost,Low Value,0,0,1,<£500
+12311,584,1,10.72,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12312,323,2,1016.25,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12313,686,1,39.78,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12314,81,10,13172.91,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12316,154,8,9576.67,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+12317,23,2,697.88,5,2,2,9,New Customers,High Value,0,0,0,£500-2K
+12320,579,1,538.46,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+12321,359,2,515.15,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+12323,460,2,1549.78,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12325,39,7,5720.36,4,5,4,13,Champions,Champions,0,1,0,£5K-10K
+12326,25,1,51.2,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+12328,13,7,9044.29,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+12329,51,1,902.23,4,1,3,8,New Customers,Medium Value,0,0,0,£500-2K
+12330,46,6,5230.62,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+12333,709,1,49.53,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12334,33,8,7133.89,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12335,163,4,2606.05,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12336,122,16,50275.58,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+12337,293,3,1146.44,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+12341,183,5,1976.97,3,4,4,11,Loyal Customers,High Value,0,0,0,£500-2K
+12345,639,1,42.42,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12346,409,2,976.34,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12347,99,8,9707.65,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+12348,232,2,1004.98,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12349,25,4,3603.0,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+12350,306,2,1819.88,2,2,4,8,Needs Attention,Medium Value,0,0,0,£500-2K
+12351,725,1,36.14,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12353,85,1,480.19,4,1,2,7,New Customers,Medium Value,0,0,0,<£500
+12354,4,11,10462.42,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12355,221,2,1739.54,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12356,638,1,177.63,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12360,454,1,294.26,1,1,2,4,Lost,Low Value,0,0,1,<£500
+12362,30,3,3113.99,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12364,704,1,46.35,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12366,15,2,782.14,5,2,2,9,New Customers,High Value,0,0,0,£500-2K
+12367,125,1,107.25,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+12368,18,3,2109.44,5,3,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+12369,709,1,10.23,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12370,21,10,7847.97,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+12372,32,6,6688.71,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+12373,48,6,4625.43,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+12374,52,4,2181.11,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+12375,712,1,50.76,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12376,271,2,731.04,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+12377,348,3,930.46,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+12378,731,1,579.83,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+12379,415,2,736.08,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+12382,593,2,490.89,1,2,2,5,Lost,Low Value,0,0,1,<£500
+12385,75,26,70072.84,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12387,218,2,727.73,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+12389,12,16,40687.97,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12391,175,1,81.1,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+12392,293,4,1987.11,2,4,4,10,At Risk,High Value,1,0,0,£500-2K
+12393,71,10,10075.56,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12395,522,1,476.46,1,1,2,4,Lost,Low Value,0,0,1,<£500
+12396,214,1,153.08,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12397,256,2,773.69,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+12398,488,2,1011.06,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12399,33,3,1301.82,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12400,80,7,6964.25,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12401,128,6,5321.21,3,4,4,11,Loyal Customers,High Value,0,0,0,£5K-10K
+12403,170,2,860.22,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+12404,71,8,8305.81,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12406,548,1,464.44,1,1,2,4,Lost,Low Value,0,0,1,<£500
+12407,35,6,6531.21,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+12409,37,5,5594.62,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+12410,15,21,47856.23,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12411,40,12,15086.9,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12413,38,7,7396.67,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12414,41,16,49035.65,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12415,33,2,1788.18,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+12417,263,3,1249.09,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+12418,309,2,591.82,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+12419,88,12,36828.82,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+12420,30,3,1629.84,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12421,367,1,78.81,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12422,65,2,417.56,4,2,2,8,New Customers,Medium Value,0,0,0,<£500
+12423,7,2,932.81,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+12424,60,4,2254.96,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+12425,19,6,5624.91,5,4,4,13,Champions,Champions,0,1,0,£5K-10K
+12426,3,3,742.4,5,3,2,10,Price Sensitive,High Value,0,0,0,£500-2K
+12427,84,8,7130.47,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12428,174,1,318.4,3,1,2,6,Needs Attention,Medium Value,0,0,0,<£500
+12433,6,1,124.6,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+12434,421,2,413.4,1,2,2,5,Lost,Low Value,0,0,1,<£500
+12435,240,1,130.9,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12436,593,2,1151.47,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12437,543,2,491.45,1,2,2,5,Lost,Low Value,0,0,1,<£500
+12439,24,2,933.53,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+12440,67,4,2357.29,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+12442,2,8,7558.02,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+12443,20,2,759.23,5,2,2,9,New Customers,High Value,0,0,0,£500-2K
+12445,725,1,191.64,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12447,213,3,983.78,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+12448,460,2,1619.67,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12451,390,2,332.68,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+12452,106,8,8833.45,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+12453,53,15,35438.01,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12455,62,4,1460.7,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+12456,116,1,353.47,3,1,2,6,Needs Attention,Medium Value,0,0,0,<£500
+12457,23,7,7978.48,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+12460,182,1,515.0,3,1,2,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12461,75,10,10182.43,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12462,494,1,210.75,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12463,2,1,88.86,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+12466,208,2,279.64,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+12468,607,1,278.22,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12469,80,6,8122.6,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+12470,110,1,815.29,3,1,2,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12471,267,2,988.98,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12473,625,1,146.34,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12474,466,1,717.92,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+12475,371,2,1681.55,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12476,143,6,5566.35,3,4,4,11,Loyal Customers,High Value,0,0,0,£5K-10K
+12477,174,1,291.6,3,1,2,6,Needs Attention,Medium Value,0,0,0,<£500
+12479,6,4,1542.28,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+12481,2,11,31213.94,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12482,18,4,3412.78,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+12483,14,3,1967.25,5,3,4,12,Loyal Customers,Champions,0,0,0,£500-2K
+12484,17,6,5465.57,5,4,4,13,Champions,Champions,0,1,0,£5K-10K
+12486,448,1,200.89,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12487,73,6,6241.07,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+12488,208,6,3005.89,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12490,88,4,2107.56,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12491,11,2,251.51,5,2,1,8,New Customers,Medium Value,0,0,0,<£500
+12492,6,14,37441.27,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12493,15,10,34695.08,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12494,65,4,2220.49,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+12497,84,7,7720.5,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12500,257,2,1312.72,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12502,415,4,3949.49,1,4,4,9,At Risk,High Value,1,0,0,£2K-5K
+12506,736,1,485.12,1,1,2,4,Lost,Low Value,0,0,1,<£500
+12507,142,5,1632.67,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12509,647,1,523.41,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+12510,78,1,626.44,4,1,2,7,New Customers,Medium Value,0,0,0,£500-2K
+12512,391,1,10.6,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12514,86,4,1099.94,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+12515,39,2,430.45,4,2,2,8,New Customers,Medium Value,0,0,0,<£500
+12516,326,1,403.4,2,1,2,5,Lost,Low Value,0,0,1,<£500
+12517,83,5,5130.76,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+12518,13,3,1024.86,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+12519,193,2,936.34,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+12520,201,3,1844.05,3,3,4,10,Loyal Customers,High Value,0,0,0,£500-2K
+12523,546,1,331.02,1,1,2,4,Lost,Low Value,0,0,1,<£500
+12525,36,4,1875.41,4,4,4,12,Champions,Champions,0,1,0,£500-2K
+12527,80,1,708.92,4,1,2,7,New Customers,Medium Value,0,0,0,£500-2K
+12529,3,7,6870.94,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+12531,365,2,499.98,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+12532,272,1,234.36,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12535,666,1,34.95,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12536,664,1,388.11,1,1,2,4,Lost,Low Value,0,0,1,<£500
+12538,686,1,1091.71,1,1,3,5,Needs Attention,Low Value,0,0,0,£500-2K
+12539,126,5,5280.16,3,4,4,11,Loyal Customers,High Value,0,0,0,£5K-10K
+12540,62,1,512.88,4,1,2,7,New Customers,Medium Value,0,0,0,£500-2K
+12541,206,1,175.4,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+12542,134,3,3537.67,3,3,4,10,Loyal Customers,High Value,0,0,0,£2K-5K
+12543,318,1,707.8,2,1,2,5,Lost,Low Value,0,0,1,£500-2K
+12544,483,3,857.38,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+12545,80,13,17657.83,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12548,68,9,9544.3,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12551,123,1,740.88,3,1,2,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12553,95,3,1122.58,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+12554,109,1,336.26,3,1,2,6,Needs Attention,Medium Value,0,0,0,<£500
+12555,26,19,49831.85,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12556,5,2,350.28,5,2,2,9,New Customers,High Value,0,0,0,<£500
+12558,1,22,55040.23,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12559,665,2,780.67,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+12561,382,2,1187.97,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12564,518,2,294.14,1,2,2,5,Lost,Low Value,0,0,1,<£500
+12565,234,2,460.39,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+12566,597,1,211.99,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12568,73,1,506.42,4,1,2,7,New Customers,Medium Value,0,0,0,£500-2K
+12569,185,4,1581.03,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12570,718,1,254.33,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12572,384,1,319.11,2,1,2,5,Lost,Low Value,0,0,1,<£500
+12573,148,3,5435.0,3,3,4,10,Loyal Customers,High Value,0,0,0,£5K-10K
+12575,594,1,845.14,1,1,3,5,Needs Attention,Low Value,0,0,0,£500-2K
+12576,101,4,6272.4,3,4,5,12,Loyal Customers,Champions,0,0,0,£5K-10K
+12578,46,3,1378.39,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12580,212,3,1502.64,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+12582,155,1,65.0,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+12583,640,1,880.5,1,1,3,5,Needs Attention,Low Value,0,0,0,£500-2K
+12585,42,1,433.88,4,1,2,7,New Customers,Medium Value,0,0,0,<£500
+12586,363,3,1934.67,2,3,4,9,At Risk,High Value,1,0,0,£500-2K
+12587,47,2,686.0,4,2,2,8,New Customers,Medium Value,0,0,0,£500-2K
+12589,157,4,1488.26,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12590,52,9,8407.3,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12591,155,5,6576.99,3,4,5,12,Loyal Customers,Champions,0,0,0,£5K-10K
+12592,392,2,1290.44,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12593,683,1,248.85,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12594,114,3,1141.8,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+12595,526,2,353.17,1,2,2,5,Lost,Low Value,0,0,1,<£500
+12596,40,7,6799.85,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12597,41,2,880.29,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+12599,285,3,1624.98,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+12602,79,6,6491.29,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+12604,38,2,1109.62,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+12607,145,4,4744.82,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12608,36,3,2612.53,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12610,105,4,1665.09,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12611,96,6,5561.3,3,4,4,11,Loyal Customers,High Value,0,0,0,£5K-10K
+12612,12,12,35642.63,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12613,22,19,47326.31,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12614,234,1,148.94,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12615,25,9,7924.29,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+12616,427,1,218.26,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12617,523,1,339.64,1,1,2,4,Lost,Low Value,0,0,1,<£500
+12618,16,1,782.99,5,1,2,8,New Customers,Medium Value,0,0,0,£500-2K
+12619,5,14,34381.14,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12620,439,1,163.98,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12621,75,11,28958.83,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12624,207,3,538.43,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+12625,101,2,577.1,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12626,109,2,1041.61,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+12627,407,2,847.44,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12630,15,3,1935.32,5,3,4,12,Loyal Customers,Champions,0,0,0,£500-2K
+12635,395,3,1417.84,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+12636,203,1,410.75,3,1,2,6,Needs Attention,Medium Value,0,0,0,<£500
+12638,350,7,5922.15,2,5,5,12,At Risk,Champions,1,0,0,£5K-10K
+12640,319,1,463.94,2,1,2,5,Lost,Low Value,0,0,1,<£500
+12641,94,2,1288.43,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+12642,292,3,1629.44,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+12644,111,9,11386.59,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+12645,244,1,99.28,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12646,491,4,4417.86,1,4,4,9,At Risk,High Value,1,0,0,£2K-5K
+12647,13,6,6798.3,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+12649,622,1,89.64,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12650,368,3,1269.05,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+12651,45,2,1192.22,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+12652,635,3,2279.82,1,3,4,8,At Risk,Medium Value,1,0,0,£2K-5K
+12656,148,3,1005.43,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+12657,251,1,265.22,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12659,77,23,58392.82,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12662,168,9,13174.13,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+12663,62,2,818.83,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+12665,367,1,254.37,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12666,11,26,66375.42,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12667,354,2,1064.31,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12668,164,3,1606.12,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+12669,404,1,553.77,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+12670,444,1,90.36,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12672,435,1,766.18,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+12674,300,1,274.32,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12675,488,2,1591.09,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12676,33,8,6623.74,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12679,229,2,1147.74,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12681,303,3,1729.1,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+12682,290,2,213.87,2,2,1,5,Lost,Low Value,0,0,1,<£500
+12684,678,1,65.45,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12686,215,1,102.6,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12687,38,3,1448.56,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12689,45,7,6248.66,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12690,44,3,1122.83,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12691,410,1,90.55,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12692,435,3,2511.48,1,3,4,8,At Risk,Medium Value,1,0,0,£2K-5K
+12693,633,1,23.35,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12694,596,1,312.41,1,1,2,4,Lost,Low Value,0,0,1,<£500
+12695,722,1,167.76,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12696,653,1,118.98,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12697,158,4,1364.35,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12699,28,4,2342.74,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+12700,37,3,1066.09,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12701,278,1,503.26,2,1,2,5,Lost,Low Value,0,0,1,£500-2K
+12702,5,2,878.08,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+12703,18,21,54595.98,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12704,250,1,127.38,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12705,674,1,533.14,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+12706,239,3,1215.98,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+12708,475,1,72.8,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12710,348,4,3520.19,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+12711,84,2,89.82,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+12713,241,1,28.05,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12715,363,3,1348.65,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+12716,60,10,8417.51,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12717,224,2,1095.55,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12718,110,2,910.09,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+12720,237,2,1553.96,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12723,187,3,1825.72,3,3,4,10,Loyal Customers,High Value,0,0,0,£500-2K
+12724,77,2,1328.7,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+12727,289,3,1725.51,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+12728,492,1,203.01,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12729,352,1,97.72,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12730,724,1,354.15,1,1,2,4,Lost,Low Value,0,0,1,<£500
+12731,10,1,762.49,5,1,2,8,New Customers,Medium Value,0,0,0,£500-2K
+12732,226,1,213.73,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12733,82,5,6605.46,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+12734,40,18,45898.11,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12735,75,3,1730.87,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12736,98,2,400.64,3,2,2,7,Needs Attention,Medium Value,0,0,0,<£500
+12738,20,4,2239.92,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+12739,30,4,1340.14,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+12740,34,8,8816.45,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12741,19,4,1876.2,5,4,4,13,Champions,Champions,0,1,0,£500-2K
+12743,159,4,3368.72,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12744,43,2,1198.6,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+12745,428,1,120.2,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12747,442,1,1158.09,1,1,3,5,Needs Attention,Low Value,0,0,0,£500-2K
+12748,413,1,214.98,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12750,724,1,308.7,1,1,2,4,Lost,Low Value,0,0,1,<£500
+12751,21,9,10132.75,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12752,616,1,158.52,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12753,337,4,5576.05,2,4,4,10,At Risk,High Value,1,0,0,£5K-10K
+12755,490,1,188.48,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12756,335,1,270.28,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12758,1,16,35313.35,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12760,34,4,2156.19,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+12761,439,3,1305.36,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+12762,27,11,11660.86,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12764,15,4,3674.32,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+12765,8,3,3497.06,5,3,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+12766,349,3,833.6,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+12767,227,1,9.79,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12768,604,1,78.65,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12769,44,5,5278.52,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+12770,11,3,1737.4,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+12771,59,5,1845.81,4,4,4,12,Champions,Champions,0,1,0,£500-2K
+12772,189,3,1974.7,3,3,4,10,Loyal Customers,High Value,0,0,0,£500-2K
+12773,130,1,795.09,3,1,2,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12775,463,1,861.31,1,1,3,5,Needs Attention,Low Value,0,0,0,£500-2K
+12776,98,2,1490.23,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+12777,684,1,89.16,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12781,506,2,1707.89,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12782,36,8,11482.36,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12783,230,2,915.92,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12784,74,2,1076.99,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+12785,56,1,214.63,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+12786,507,1,101.92,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12791,42,2,567.57,4,2,2,8,New Customers,Medium Value,0,0,0,£500-2K
+12792,79,3,2815.86,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12793,104,1,40.94,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+12794,2,16,43821.35,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12795,361,2,593.11,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+12796,29,4,1831.67,5,4,4,13,Champions,Champions,0,1,0,£500-2K
+12798,375,2,243.28,2,2,1,5,Lost,Low Value,0,0,1,<£500
+12799,183,1,564.72,3,1,2,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12801,25,2,810.2,5,2,2,9,New Customers,High Value,0,0,0,£500-2K
+12802,135,5,1594.52,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12803,9,1,381.49,5,1,2,8,New Customers,Medium Value,0,0,0,<£500
+12804,502,1,150.36,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12806,689,1,294.5,1,1,2,4,Lost,Low Value,0,0,1,<£500
+12807,626,1,182.91,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12810,441,4,6232.13,1,4,5,10,At Risk,High Value,1,0,0,£5K-10K
+12811,141,1,22.08,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+12812,353,1,85.5,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12813,19,3,853.63,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+12815,36,3,792.25,4,3,2,9,Price Sensitive,High Value,0,0,0,£500-2K
+12818,67,1,51.76,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+12819,588,1,25.52,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12821,382,5,3676.34,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+12822,55,2,1638.48,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+12823,373,3,1554.03,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+12824,125,2,1494.44,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+12825,110,8,6693.97,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+12827,26,3,1873.01,5,3,4,12,Loyal Customers,Champions,0,0,0,£500-2K
+12828,91,3,1050.13,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+12829,227,1,517.81,2,1,2,5,Lost,Low Value,0,0,1,£500-2K
+12830,78,6,4419.53,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+12833,3,1,190.47,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+12834,3,9,11648.26,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12835,716,1,126.39,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12837,2,1,195.8,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+12838,172,4,3605.74,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12839,700,1,373.8,1,1,2,4,Lost,Low Value,0,0,1,<£500
+12841,604,1,86.06,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12843,282,3,1856.4,2,3,4,9,At Risk,High Value,1,0,0,£500-2K
+12844,426,1,75.9,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12845,10,26,66465.86,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12846,595,1,160.2,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12847,15,9,8644.12,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+12848,581,3,1442.06,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+12849,159,4,2331.36,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12850,624,1,453.1,1,1,2,4,Lost,Low Value,0,0,1,<£500
+12851,140,4,4327.76,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12854,46,5,5793.44,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+12855,2,6,6335.99,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+12856,126,5,5661.98,3,4,4,11,Loyal Customers,High Value,0,0,0,£5K-10K
+12859,130,3,1175.38,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+12860,14,6,6510.74,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+12861,356,1,269.54,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12865,67,8,8910.05,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12866,38,7,7898.76,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12867,11,20,58638.62,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12868,197,2,1195.54,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+12869,154,7,7808.08,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+12870,421,1,625.77,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+12871,187,5,2114.24,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12875,350,1,96.2,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12876,80,6,6812.24,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+12877,390,1,896.57,2,1,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12878,47,3,3079.02,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12880,287,3,1274.41,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+12882,332,2,1153.37,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12883,89,4,1607.05,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12885,129,14,38308.74,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+12886,516,1,134.31,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12887,42,1,86.5,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+12891,201,5,6493.89,3,4,5,12,Loyal Customers,Champions,0,0,0,£5K-10K
+12894,532,1,37.95,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12895,61,9,7266.17,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12896,477,1,6.63,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12899,19,3,1180.98,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+12900,45,11,38023.55,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12901,27,4,2719.83,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+12903,110,1,174.48,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+12904,154,2,562.69,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12905,131,6,7760.57,3,4,5,12,Loyal Customers,Champions,0,0,0,£5K-10K
+12906,640,2,1357.62,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+12907,15,3,1889.43,5,3,4,12,Loyal Customers,Champions,0,0,0,£500-2K
+12909,487,1,301.1,1,1,2,4,Lost,Low Value,0,0,1,<£500
+12910,30,2,925.1,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+12911,3,2,345.02,5,2,2,9,New Customers,High Value,0,0,0,<£500
+12912,117,7,7738.14,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+12914,502,3,2112.18,1,3,4,8,At Risk,Medium Value,1,0,0,£2K-5K
+12915,479,1,104.36,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12916,145,3,1570.49,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+12917,280,1,72.9,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12919,499,1,71.55,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12920,58,3,1193.27,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12921,304,3,1154.74,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+12922,9,12,10958.97,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12923,512,1,305.79,1,1,2,4,Lost,Low Value,0,0,1,<£500
+12924,8,18,48496.27,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12925,467,2,556.3,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+12929,210,5,2206.51,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+12930,85,7,8919.23,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12933,373,1,594.22,2,1,2,5,Lost,Low Value,0,0,1,£500-2K
+12934,33,3,894.72,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+12937,277,4,1763.33,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+12939,24,9,10238.69,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12940,34,9,7480.29,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12944,9,12,36767.97,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12946,185,3,1702.6,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+12947,269,5,2982.25,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+12948,569,1,146.1,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12949,302,2,1894.56,2,2,4,8,Needs Attention,Medium Value,0,0,0,£500-2K
+12952,30,2,2368.84,4,2,4,10,New Customers,High Value,0,0,0,£2K-5K
+12953,56,8,7238.02,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+12954,172,4,4932.16,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12955,13,4,3697.0,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+12958,14,16,40666.37,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12959,6,25,68092.28,5,5,5,15,Champions,Champions,0,1,0,£10K+
+12962,378,2,1524.47,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+12963,31,2,1382.68,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+12965,697,1,969.93,1,1,3,5,Needs Attention,Low Value,0,0,0,£500-2K
+12966,143,19,50605.65,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+12967,52,1,299.37,4,1,2,7,New Customers,Medium Value,0,0,0,<£500
+12972,531,3,1142.85,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+12973,23,1,236.59,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+12974,23,12,7839.86,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+12975,322,7,7508.39,2,5,5,12,At Risk,Champions,1,0,0,£5K-10K
+12976,83,1,618.0,4,1,2,7,New Customers,Medium Value,0,0,0,£500-2K
+12980,146,7,5419.76,3,5,4,12,Loyal Customers,Champions,0,0,0,£5K-10K
+12981,36,4,3354.04,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+12983,26,1,112.71,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+12984,586,1,47.0,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12986,315,1,104.91,2,1,1,4,Lost,Low Value,0,0,1,<£500
+12988,44,4,4143.21,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+12989,525,2,354.08,1,2,2,5,Lost,Low Value,0,0,1,<£500
+12992,435,1,24.22,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12993,144,4,2709.33,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+12995,80,15,44025.66,4,5,5,14,Champions,Champions,0,1,0,£10K+
+12996,29,1,85.75,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+12997,13,7,7895.11,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+12998,496,1,265.65,1,1,1,3,Lost,Low Value,0,0,1,<£500
+12999,10,7,6084.16,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13000,554,4,1533.14,1,4,3,8,At Risk,Medium Value,1,0,0,£500-2K
+13001,368,2,408.98,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+13003,223,3,1580.67,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+13004,5,10,9419.07,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13005,309,1,31.15,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13006,244,1,95.56,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13008,484,5,3809.11,1,4,4,9,At Risk,High Value,1,0,0,£2K-5K
+13010,276,4,1296.72,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+13011,28,7,5734.14,5,5,4,14,Champions,Champions,0,1,0,£5K-10K
+13012,620,1,374.95,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13013,680,1,183.15,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13015,29,3,2187.25,5,3,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+13016,335,1,446.49,2,1,2,5,Lost,Low Value,0,0,1,<£500
+13017,79,1,337.1,4,1,2,7,New Customers,Medium Value,0,0,0,<£500
+13019,735,1,598.68,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+13020,101,4,2042.2,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13021,255,4,1268.93,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+13022,12,1,174.6,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+13023,186,4,2088.16,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13025,17,3,1897.15,5,3,4,12,Loyal Customers,Champions,0,0,0,£500-2K
+13027,12,9,7729.81,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13030,4,10,7886.57,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13032,402,2,904.44,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+13035,341,2,2301.69,2,2,4,8,Needs Attention,Medium Value,0,0,0,£2K-5K
+13036,51,7,7268.69,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+13037,33,3,1015.81,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+13038,249,7,8649.1,2,5,5,12,At Risk,Champions,1,0,0,£5K-10K
+13039,165,4,4175.5,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13040,16,11,14513.47,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13041,303,3,2199.12,2,3,4,9,At Risk,High Value,1,0,0,£2K-5K
+13043,265,7,7228.87,2,5,5,12,At Risk,Champions,1,0,0,£5K-10K
+13044,2,10,10515.5,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13046,77,7,7233.03,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+13047,37,4,6203.51,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+13048,2,7,9585.45,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13051,172,3,1335.42,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+13054,85,2,212.32,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+13055,585,1,140.36,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13056,14,1,708.9,5,1,2,8,New Customers,Medium Value,0,0,0,£500-2K
+13057,1,1,427.5,5,1,2,8,New Customers,Medium Value,0,0,0,<£500
+13058,6,13,38424.6,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13059,404,1,326.95,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13064,68,6,4358.51,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13066,83,2,472.77,4,2,2,8,New Customers,Medium Value,0,0,0,<£500
+13071,107,1,162.58,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+13072,5,8,8635.13,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13075,39,4,1987.37,4,4,4,12,Champions,Champions,0,1,0,£500-2K
+13077,51,2,1355.85,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+13078,593,1,231.51,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13079,24,1,500.1,5,1,2,8,New Customers,Medium Value,0,0,0,£500-2K
+13080,35,1,371.87,4,1,2,7,New Customers,Medium Value,0,0,0,<£500
+13083,148,6,8039.19,3,4,5,12,Loyal Customers,Champions,0,0,0,£5K-10K
+13085,217,1,570.56,2,1,2,5,Lost,Low Value,0,0,1,£500-2K
+13086,14,2,1231.35,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+13087,66,4,4450.53,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13088,207,1,1697.12,3,1,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13090,716,2,301.98,1,2,2,5,Lost,Low Value,0,0,1,<£500
+13091,167,1,171.09,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+13092,561,3,1145.86,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+13094,6,15,40874.91,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13095,85,3,1759.92,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+13096,370,1,383.58,2,1,2,5,Lost,Low Value,0,0,1,<£500
+13097,63,7,9717.54,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+13099,140,1,910.97,3,1,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13101,5,3,1599.96,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+13103,68,5,6116.71,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+13104,18,16,44528.2,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13106,236,2,1108.64,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13109,152,1,535.9,3,1,2,6,Needs Attention,Medium Value,0,0,0,£500-2K
+13110,15,4,2072.89,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+13111,673,1,447.62,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13114,680,2,462.69,1,2,2,5,Lost,Low Value,0,0,1,<£500
+13115,16,2,329.91,5,2,2,9,New Customers,High Value,0,0,0,<£500
+13116,9,6,6150.28,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+13119,337,5,5266.59,2,4,4,10,At Risk,High Value,1,0,0,£5K-10K
+13120,384,1,883.21,2,1,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+13121,12,10,13911.24,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13122,58,2,396.51,4,2,2,8,New Customers,Medium Value,0,0,0,<£500
+13124,355,1,512.87,2,1,2,5,Lost,Low Value,0,0,1,£500-2K
+13125,484,3,2708.95,1,3,4,8,At Risk,Medium Value,1,0,0,£2K-5K
+13126,197,1,306.06,3,1,2,6,Needs Attention,Medium Value,0,0,0,<£500
+13128,682,1,200.15,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13129,370,3,1048.11,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+13130,189,4,2986.92,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13133,544,1,662.08,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+13134,49,7,6817.98,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+13135,4,7,8531.55,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13136,37,8,7811.61,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+13137,199,1,9.46,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+13139,64,3,2549.87,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13141,460,3,916.26,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+13143,452,1,108.18,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13144,152,7,5912.91,3,5,4,12,Loyal Customers,Champions,0,0,0,£5K-10K
+13145,2,2,1627.56,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+13146,27,1,729.81,5,1,2,8,New Customers,Medium Value,0,0,0,£500-2K
+13147,36,7,9430.47,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+13148,109,3,1843.84,3,3,4,10,Loyal Customers,High Value,0,0,0,£500-2K
+13151,188,2,627.33,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13153,118,3,2775.86,3,3,4,10,Loyal Customers,High Value,0,0,0,£2K-5K
+13154,297,1,189.18,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13155,617,1,341.47,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13157,50,3,1086.52,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+13159,45,1,108.72,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+13160,7,3,1862.76,5,3,4,12,Loyal Customers,Champions,0,0,0,£500-2K
+13161,14,6,6977.87,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+13162,423,4,4114.55,1,4,4,9,At Risk,High Value,1,0,0,£2K-5K
+13163,10,9,24466.84,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13165,131,4,2161.75,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13166,450,2,834.51,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+13167,607,1,56.91,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13168,645,1,388.58,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13169,20,2,234.08,5,2,1,8,New Customers,Medium Value,0,0,0,<£500
+13170,260,4,5213.94,2,4,4,10,At Risk,High Value,1,0,0,£5K-10K
+13174,161,2,623.74,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13175,418,1,78.6,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13176,21,7,7086.55,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13177,16,18,50158.39,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13178,201,13,40699.56,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+13179,248,1,311.0,2,1,2,5,Lost,Low Value,0,0,1,<£500
+13180,3,1,1149.69,5,1,3,9,New Customers,High Value,0,0,0,£500-2K
+13182,2,23,61170.73,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13183,367,3,1517.85,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+13184,355,1,187.48,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13185,367,2,622.08,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+13186,526,1,175.58,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13187,431,3,756.85,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+13189,13,2,733.78,5,2,2,9,New Customers,High Value,0,0,0,£500-2K
+13190,251,2,1353.98,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13191,110,5,1712.4,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+13194,13,3,1102.06,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+13195,307,3,2278.76,2,3,4,9,At Risk,High Value,1,0,0,£2K-5K
+13197,8,1,305.6,5,1,2,8,New Customers,Medium Value,0,0,0,<£500
+13198,263,3,734.73,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+13199,23,1,360.53,5,1,2,8,New Customers,Medium Value,0,0,0,<£500
+13200,116,2,1239.05,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+13202,137,2,1371.71,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+13204,514,1,428.74,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13205,458,1,490.79,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13206,82,1,174.6,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+13209,29,2,543.57,5,2,2,9,New Customers,High Value,0,0,0,£500-2K
+13211,545,1,157.76,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13212,33,3,1084.99,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+13213,197,5,4187.41,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13214,62,3,1324.12,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+13215,87,2,1086.99,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+13217,393,3,1868.08,2,3,4,9,At Risk,High Value,1,0,0,£500-2K
+13221,683,2,947.52,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+13222,8,9,8860.42,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13223,206,4,2530.57,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13224,28,6,6845.4,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+13226,88,2,1026.74,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+13227,222,2,180.32,2,2,1,5,Lost,Low Value,0,0,1,<£500
+13228,313,1,339.38,2,1,2,5,Lost,Low Value,0,0,1,<£500
+13229,188,6,5198.3,3,4,4,11,Loyal Customers,High Value,0,0,0,£5K-10K
+13230,148,6,1854.95,3,4,4,11,Loyal Customers,High Value,0,0,0,£500-2K
+13234,372,1,269.54,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13235,35,5,4512.44,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13238,33,4,2000.74,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13239,414,1,460.92,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13240,13,4,5333.82,5,4,4,13,Champions,Champions,0,1,0,£5K-10K
+13242,27,7,9725.08,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13243,15,1,76.51,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+13244,7,2,303.21,5,2,2,9,New Customers,High Value,0,0,0,<£500
+13247,319,1,444.56,2,1,2,5,Lost,Low Value,0,0,1,<£500
+13248,240,1,42.21,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13250,106,11,10723.07,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+13251,319,2,740.17,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+13254,18,2,850.74,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+13256,420,2,282.2,1,2,1,4,Lost,Low Value,0,0,1,<£500
+13257,27,2,1320.84,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+13258,107,3,1233.81,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+13259,345,2,1840.83,2,2,4,8,Needs Attention,Medium Value,0,0,0,£500-2K
+13260,716,1,588.73,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+13261,201,2,836.07,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+13262,117,14,36386.56,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+13265,367,2,1573.29,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13266,396,1,507.6,2,1,2,5,Lost,Low Value,0,0,1,£500-2K
+13267,27,15,34553.02,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13268,481,1,169.32,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13270,37,4,5374.32,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+13271,23,7,5111.59,5,5,4,14,Champions,Champions,0,1,0,£5K-10K
+13273,653,1,336.22,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13274,239,8,23125.81,2,5,5,12,At Risk,Champions,1,0,0,£10K+
+13275,243,1,480.32,2,1,2,5,Lost,Low Value,0,0,1,<£500
+13276,131,3,1464.69,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+13277,241,4,1736.11,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+13278,361,1,366.68,2,1,2,5,Lost,Low Value,0,0,1,<£500
+13280,34,3,1694.89,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+13282,266,2,481.47,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+13284,598,1,96.1,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13287,226,6,6827.82,2,4,5,11,At Risk,High Value,1,0,0,£5K-10K
+13291,7,2,669.71,5,2,2,9,New Customers,High Value,0,0,0,£500-2K
+13294,578,2,1204.21,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+13296,7,22,61167.15,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13297,124,10,8323.71,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+13299,473,1,97.9,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13300,603,1,67.4,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13301,163,11,32083.19,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+13303,36,23,62624.0,4,5,5,14,Champions,Champions,0,1,0,£10K+
+13304,279,4,3216.46,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+13305,15,19,58641.96,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13306,254,1,366.55,2,1,2,5,Lost,Low Value,0,0,1,<£500
+13308,531,1,543.05,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+13310,13,13,41156.74,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13311,191,1,199.54,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+13312,265,2,1096.22,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13313,323,2,1523.95,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13314,274,4,4640.93,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+13315,84,1,335.16,4,1,2,7,New Customers,Medium Value,0,0,0,<£500
+13316,19,2,817.51,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+13317,293,1,3.36,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13318,92,4,2704.55,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13319,23,5,5265.35,5,4,4,13,Champions,Champions,0,1,0,£5K-10K
+13320,547,1,79.9,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13321,91,12,14068.77,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+13324,70,4,3815.0,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13326,98,1,436.98,3,1,2,6,Needs Attention,Medium Value,0,0,0,<£500
+13327,344,4,3817.27,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+13328,545,2,120.62,1,2,1,4,Lost,Low Value,0,0,1,<£500
+13329,36,4,2356.0,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13333,484,1,82.41,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13334,2,6,3732.47,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+13336,11,11,11332.8,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13337,13,1,31.15,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+13338,326,1,3.84,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13339,243,7,7963.32,2,5,5,12,At Risk,Champions,1,0,0,£5K-10K
+13343,425,4,3013.95,1,4,4,9,At Risk,High Value,1,0,0,£2K-5K
+13344,91,6,6048.33,3,4,5,12,Loyal Customers,Champions,0,0,0,£5K-10K
+13345,63,5,1845.25,4,4,4,12,Champions,Champions,0,1,0,£500-2K
+13347,76,5,5517.23,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+13348,639,1,37.2,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13349,285,4,4073.67,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+13350,15,2,246.4,5,2,1,8,New Customers,Medium Value,0,0,0,<£500
+13351,267,2,101.71,2,2,1,5,Lost,Low Value,0,0,1,<£500
+13353,77,5,2442.91,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13355,105,2,905.3,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+13358,42,5,5264.76,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+13360,345,2,515.85,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+13361,66,6,6651.16,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+13362,38,3,1883.75,4,3,4,11,Loyal Customers,High Value,0,0,0,£500-2K
+13363,8,7,8557.51,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13364,97,1,161.36,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+13365,219,1,17.48,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13366,24,6,6219.2,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+13370,259,1,127.24,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13372,648,1,346.5,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13373,645,3,843.67,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+13375,120,5,1849.47,3,4,4,11,Loyal Customers,High Value,0,0,0,£500-2K
+13376,14,3,1964.68,5,3,4,12,Loyal Customers,Champions,0,0,0,£500-2K
+13377,79,3,520.15,4,3,2,9,Price Sensitive,High Value,0,0,0,£500-2K
+13380,27,1,1087.78,5,1,3,9,New Customers,High Value,0,0,0,£500-2K
+13381,2,2,963.48,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+13382,516,1,607.11,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+13383,50,1,330.49,4,1,2,7,New Customers,Medium Value,0,0,0,<£500
+13384,7,3,1824.67,5,3,4,12,Loyal Customers,Champions,0,0,0,£500-2K
+13385,669,1,20.25,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13387,317,2,1036.04,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13388,58,8,6584.32,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+13389,63,3,1122.19,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+13391,11,2,2157.21,5,2,4,11,New Customers,High Value,0,0,0,£2K-5K
+13392,111,5,3935.04,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13393,122,1,545.45,3,1,2,6,Needs Attention,Medium Value,0,0,0,£500-2K
+13394,300,3,1646.25,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+13395,1,22,54031.27,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13396,25,3,1261.65,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+13397,88,2,941.96,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+13399,28,3,805.34,5,3,2,10,Price Sensitive,High Value,0,0,0,£500-2K
+13400,15,3,1557.03,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+13403,265,3,1193.68,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+13404,175,3,658.13,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+13405,59,3,1396.52,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+13407,19,2,981.98,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+13408,192,1,219.96,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+13409,23,16,39005.04,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13410,21,2,1193.31,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+13411,432,1,222.04,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13412,525,2,1678.65,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+13413,155,1,65.28,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+13414,198,2,587.08,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13415,471,1,197.6,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13416,2,9,9744.62,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13418,61,3,4132.61,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13420,6,3,1549.65,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+13421,723,1,199.08,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13422,228,2,738.04,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+13424,145,9,8328.01,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+13425,34,7,9049.16,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+13426,590,1,1029.7,1,1,3,5,Needs Attention,Low Value,0,0,0,£500-2K
+13427,25,6,6367.67,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+13428,153,4,3740.45,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13431,54,4,2132.68,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13433,64,1,54.09,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+13434,242,3,1996.01,2,3,4,9,At Risk,High Value,1,0,0,£500-2K
+13436,660,1,54.3,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13438,149,2,2190.74,3,2,4,9,Potential Loyal,High Value,0,0,0,£2K-5K
+13439,94,1,10.56,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+13440,151,7,4652.39,3,5,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+13441,15,9,8840.02,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13442,24,24,71032.22,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13445,478,1,106.26,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13446,463,1,19.58,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13447,459,1,265.35,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13448,89,5,5912.79,3,4,4,11,Loyal Customers,High Value,0,0,0,£5K-10K
+13449,251,4,1972.74,2,4,4,10,At Risk,High Value,1,0,0,£500-2K
+13450,70,4,2109.46,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13452,54,1,356.1,4,1,2,7,New Customers,Medium Value,0,0,0,<£500
+13453,25,9,6147.25,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13454,69,23,56747.45,4,5,5,14,Champions,Champions,0,1,0,£10K+
+13455,62,9,7331.23,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+13456,330,2,761.89,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+13458,543,1,387.21,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13460,55,2,1713.08,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+13461,32,1,382.34,4,1,2,7,New Customers,Medium Value,0,0,0,<£500
+13462,274,8,7413.46,2,5,5,12,At Risk,Champions,1,0,0,£5K-10K
+13464,4,1,91.85,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+13465,2,5,3901.18,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+13466,393,1,223.87,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13467,318,2,512.72,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+13470,415,1,199.1,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13471,306,1,21.36,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13472,21,10,11058.1,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13473,147,7,9007.77,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+13474,415,2,823.35,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+13475,3,19,53796.68,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13476,685,1,55.56,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13477,197,2,138.73,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+13478,12,7,6131.7,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13480,586,2,2820.58,1,2,4,7,Needs Attention,Medium Value,0,0,0,£2K-5K
+13481,113,2,1450.15,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+13482,25,5,2428.39,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+13483,171,2,1360.59,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+13484,244,2,1350.85,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13485,173,1,856.1,3,1,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13486,41,4,1714.69,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+13488,192,7,6470.67,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+13489,51,8,8091.19,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+13490,58,7,7071.29,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+13491,340,1,462.51,2,1,2,5,Lost,Low Value,0,0,1,<£500
+13492,35,6,6908.8,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+13494,169,1,636.72,3,1,2,6,Needs Attention,Medium Value,0,0,0,£500-2K
+13495,411,1,119.6,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13497,15,3,2569.23,5,3,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+13498,99,7,8064.52,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+13499,7,6,2863.66,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+13501,492,1,799.16,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+13502,134,9,11245.32,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+13504,34,22,60263.21,4,5,5,14,Champions,Champions,0,1,0,£10K+
+13507,428,2,893.64,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+13508,37,6,4497.29,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13509,38,11,8656.31,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+13510,602,1,166.06,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13511,211,1,89.3,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13512,78,1,103.08,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+13515,68,7,6509.94,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+13519,14,8,6256.93,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13520,591,1,130.14,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13521,2,4,2733.33,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+13524,14,8,8650.96,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13526,17,3,1697.99,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+13527,480,1,609.41,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+13529,36,5,4235.32,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13530,399,1,475.5,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13531,87,7,5887.8,4,5,4,13,Champions,Champions,0,1,0,£5K-10K
+13532,211,1,238.78,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13533,347,2,690.45,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+13534,339,1,418.8,2,1,2,5,Lost,Low Value,0,0,1,<£500
+13536,35,7,8167.69,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+13537,14,3,1030.9,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+13538,14,2,648.78,5,2,2,9,New Customers,High Value,0,0,0,£500-2K
+13539,106,9,8251.04,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+13541,661,1,117.8,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13542,17,6,6033.65,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+13543,298,2,789.03,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+13544,55,5,5461.62,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+13546,97,13,12581.23,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+13549,307,2,808.45,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+13553,111,4,3298.96,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13554,10,3,1629.83,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+13556,220,1,200.2,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13557,478,1,336.2,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13561,16,12,10285.16,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13563,205,1,196.35,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+13564,165,1,323.11,3,1,2,6,Needs Attention,Medium Value,0,0,0,<£500
+13565,149,1,107.25,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+13566,406,4,5488.53,1,4,4,9,At Risk,High Value,1,0,0,£5K-10K
+13567,450,1,640.0,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+13568,5,1,60.08,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+13569,267,4,3296.33,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+13570,386,1,593.58,2,1,2,5,Lost,Low Value,0,0,1,£500-2K
+13571,46,6,7239.5,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+13572,103,2,755.15,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13573,17,16,43306.46,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13574,372,1,245.11,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13577,42,1,194.74,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+13579,398,2,1774.21,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+13580,176,2,2915.71,3,2,4,9,Potential Loyal,High Value,0,0,0,£2K-5K
+13582,55,6,4344.99,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13585,545,1,23.72,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13587,15,7,7911.59,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13588,18,2,686.43,5,2,2,9,New Customers,High Value,0,0,0,£500-2K
+13590,432,1,796.17,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+13592,23,9,7815.68,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13593,19,1,96.2,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+13594,737,1,135.81,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13595,677,1,293.71,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13596,133,4,1287.74,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+13597,2,4,1711.96,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+13599,74,4,3506.16,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13602,24,1,36.54,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+13604,495,1,737.92,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+13607,496,2,600.73,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+13609,22,4,2709.02,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+13610,22,2,1422.91,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+13611,147,2,658.74,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13613,5,4,1705.47,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+13616,574,2,942.62,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+13617,89,7,6348.28,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+13618,56,1,335.11,4,1,2,7,New Customers,Medium Value,0,0,0,<£500
+13619,183,4,1965.39,3,4,4,11,Loyal Customers,High Value,0,0,0,£500-2K
+13620,71,1,48.98,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+13621,120,5,1681.32,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+13622,12,3,1939.09,5,3,4,12,Loyal Customers,Champions,0,0,0,£500-2K
+13624,556,2,476.49,1,2,2,5,Lost,Low Value,0,0,1,<£500
+13625,591,1,105.9,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13626,719,1,588.71,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+13627,261,4,2394.96,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+13630,257,4,1093.42,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+13632,451,2,812.39,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+13633,5,3,1595.08,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+13634,229,2,731.46,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+13636,162,1,4.67,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+13638,175,1,41.72,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+13639,1,20,53973.92,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13641,667,1,42.12,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13642,609,1,345.36,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13643,15,2,1811.11,5,2,4,11,New Customers,High Value,0,0,0,£500-2K
+13644,142,9,8714.12,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+13645,32,5,4408.39,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13647,13,4,1448.1,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+13648,20,2,1575.45,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+13649,67,8,8941.35,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+13650,14,23,65987.49,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13651,68,1,233.92,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+13652,426,1,231.84,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13653,108,1,327.06,3,1,2,6,Needs Attention,Medium Value,0,0,0,<£500
+13654,366,4,1618.2,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+13655,460,1,120.78,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13656,178,3,4081.35,3,3,4,10,Loyal Customers,High Value,0,0,0,£2K-5K
+13657,183,7,8000.51,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+13658,16,2,1209.31,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+13659,52,2,1414.09,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+13660,147,3,1532.48,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+13661,181,1,15.44,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+13662,29,1,138.4,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+13664,153,3,310.86,3,3,2,8,Price Sensitive,Medium Value,0,0,0,<£500
+13665,225,7,5888.72,2,5,4,11,At Risk,High Value,1,0,0,£5K-10K
+13666,211,4,1524.17,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+13668,701,1,30.32,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13670,55,9,24167.12,4,5,5,14,Champions,Champions,0,1,0,£10K+
+13671,41,1,516.48,4,1,2,7,New Customers,Medium Value,0,0,0,£500-2K
+13672,39,13,38705.37,4,5,5,14,Champions,Champions,0,1,0,£10K+
+13673,360,2,417.42,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+13676,718,1,279.79,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13677,75,4,2683.48,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13679,605,1,467.0,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13680,88,6,5073.02,3,4,4,11,Loyal Customers,High Value,0,0,0,£5K-10K
+13681,55,2,680.91,4,2,2,8,New Customers,Medium Value,0,0,0,£500-2K
+13682,425,1,417.39,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13683,195,4,2597.35,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13684,7,2,710.28,5,2,2,9,New Customers,High Value,0,0,0,£500-2K
+13685,607,1,323.49,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13686,246,3,1758.26,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+13687,3,8,9447.74,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13688,190,1,469.47,3,1,2,6,Needs Attention,Medium Value,0,0,0,<£500
+13691,4,1,487.73,5,1,2,8,New Customers,Medium Value,0,0,0,<£500
+13694,356,2,1131.15,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13695,4,10,28667.48,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13701,600,1,554.67,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+13702,14,16,52180.43,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13703,7,4,1120.43,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+13704,3,5,1857.45,5,4,4,13,Champions,Champions,0,1,0,£500-2K
+13706,447,1,335.18,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13707,362,1,417.81,2,1,2,5,Lost,Low Value,0,0,1,<£500
+13708,233,3,1189.0,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+13709,9,2,378.87,5,2,2,9,New Customers,High Value,0,0,0,<£500
+13710,446,3,1896.42,1,3,4,8,At Risk,Medium Value,1,0,0,£500-2K
+13712,52,1,102.96,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+13715,38,3,885.22,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+13716,46,3,1224.68,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+13717,549,2,389.87,1,2,2,5,Lost,Low Value,0,0,1,<£500
+13718,14,4,2931.34,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+13720,520,1,262.32,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13722,109,5,2100.09,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13724,21,4,2362.77,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+13726,73,4,2113.57,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13727,35,1,334.03,4,1,2,7,New Customers,Medium Value,0,0,0,<£500
+13728,696,2,383.23,1,2,2,5,Lost,Low Value,0,0,1,<£500
+13730,98,16,41036.61,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+13733,167,2,1098.93,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+13734,122,2,2508.15,3,2,4,9,Potential Loyal,High Value,0,0,0,£2K-5K
+13735,372,3,1923.92,2,3,4,9,At Risk,High Value,1,0,0,£500-2K
+13736,197,3,1165.43,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+13738,242,2,218.61,2,2,1,5,Lost,Low Value,0,0,1,<£500
+13741,2,4,1634.48,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+13742,6,9,8967.63,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13743,1,4,1385.8,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+13744,194,5,2137.4,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13745,125,3,3628.12,3,3,4,10,Loyal Customers,High Value,0,0,0,£2K-5K
+13747,391,1,36.63,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13748,262,3,1083.27,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+13749,693,1,338.7,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13750,535,1,37.18,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13753,430,1,98.63,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13755,588,1,13.09,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13756,44,1,208.11,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+13757,9,10,10008.39,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13758,119,5,5064.53,3,4,4,11,Loyal Customers,High Value,0,0,0,£5K-10K
+13759,363,1,245.31,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13760,26,2,1497.47,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+13761,20,22,56841.96,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13762,374,1,54.4,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13763,10,14,34186.57,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13764,208,1,27.52,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+13765,174,2,578.28,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13767,146,3,1270.58,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+13768,254,6,5766.57,2,4,4,10,At Risk,High Value,1,0,0,£5K-10K
+13769,576,1,153.15,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13772,57,3,1319.08,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+13773,584,1,524.83,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+13775,6,7,7452.92,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13777,96,2,597.99,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13778,95,5,11047.46,3,4,5,12,Loyal Customers,Champions,0,0,0,£10K+
+13779,340,2,858.13,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13780,119,3,2601.87,3,3,4,10,Loyal Customers,High Value,0,0,0,£2K-5K
+13781,523,1,340.98,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13783,636,2,828.17,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+13785,65,10,9817.98,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+13786,21,1,576.11,5,1,2,8,New Customers,Medium Value,0,0,0,£500-2K
+13787,71,5,5280.02,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+13789,4,1,217.99,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+13796,376,2,397.83,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+13797,158,5,7735.26,3,4,5,12,Loyal Customers,Champions,0,0,0,£5K-10K
+13799,54,9,8546.71,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+13800,176,1,611.02,3,1,2,6,Needs Attention,Medium Value,0,0,0,£500-2K
+13801,40,1,627.65,4,1,2,7,New Customers,Medium Value,0,0,0,£500-2K
+13803,17,14,39859.17,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13804,360,7,5026.75,2,5,4,11,At Risk,High Value,1,0,0,£5K-10K
+13805,356,3,1080.8,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+13808,639,1,259.65,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13809,607,1,472.77,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13810,393,2,612.9,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+13811,286,2,1527.34,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13812,319,4,2072.82,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+13813,116,1,752.66,3,1,2,6,Needs Attention,Medium Value,0,0,0,£500-2K
+13815,7,6,6535.92,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+13816,110,2,1339.67,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+13817,11,11,32536.6,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13818,53,1,167.07,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+13820,58,3,2626.13,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13821,115,6,3221.32,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13822,98,5,2551.26,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13823,2,8,21668.55,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13824,10,5,6262.87,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+13826,644,1,108.72,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13829,329,2,606.01,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+13830,57,6,6646.94,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+13831,27,1,74.1,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+13833,363,1,313.84,2,1,2,5,Lost,Low Value,0,0,1,<£500
+13835,68,4,2730.82,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13837,688,1,168.19,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13839,84,4,3654.8,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13840,381,1,543.21,2,1,2,5,Lost,Low Value,0,0,1,£500-2K
+13841,276,2,909.66,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13842,25,1,51.54,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+13843,207,6,8261.11,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+13844,227,4,2869.34,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+13846,1,14,42432.43,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13848,64,3,1181.81,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+13853,81,11,27410.54,4,5,5,14,Champions,Champions,0,1,0,£10K+
+13854,277,4,4682.41,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+13855,560,3,1396.04,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+13856,555,2,149.68,1,2,1,4,Lost,Low Value,0,0,1,<£500
+13858,35,5,1343.81,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+13859,537,1,276.03,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13860,23,6,6878.49,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13863,241,1,257.92,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13864,576,2,1039.7,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+13865,50,2,1159.39,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+13868,47,5,7507.51,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+13869,210,4,1367.42,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+13870,185,2,607.99,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13871,231,1,53.36,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13872,162,1,238.9,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+13873,24,9,20783.76,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13874,95,1,182.04,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+13876,28,4,1981.88,5,4,4,13,Champions,Champions,0,1,0,£500-2K
+13877,28,11,11832.5,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13878,56,2,217.97,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+13881,308,3,1342.02,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+13882,175,5,5092.13,3,4,4,11,Loyal Customers,High Value,0,0,0,£5K-10K
+13883,79,1,72.99,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+13884,8,5,4572.71,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+13885,119,3,1518.01,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+13886,366,1,144.91,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13887,49,2,605.02,4,2,2,8,New Customers,Medium Value,0,0,0,£500-2K
+13888,367,2,582.99,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+13889,225,4,1667.79,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+13891,7,10,26483.89,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13892,4,4,4667.28,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+13894,329,2,2958.58,2,2,4,8,Needs Attention,Medium Value,0,0,0,£2K-5K
+13898,504,1,327.57,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13899,29,2,297.44,5,2,2,9,New Customers,High Value,0,0,0,<£500
+13902,366,2,1065.08,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13903,33,3,2449.75,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13904,42,1,44.16,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+13905,21,4,1936.63,5,4,4,13,Champions,Champions,0,1,0,£500-2K
+13906,136,5,1881.28,3,4,4,11,Loyal Customers,High Value,0,0,0,£500-2K
+13907,5,12,31412.3,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13908,102,9,7682.54,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+13909,435,1,353.02,1,1,2,4,Lost,Low Value,0,0,1,<£500
+13910,103,4,2189.73,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13911,5,3,1146.86,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+13912,87,2,1304.93,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+13915,53,2,1096.72,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+13916,44,4,2786.49,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13917,152,3,2127.22,3,3,4,10,Loyal Customers,High Value,0,0,0,£2K-5K
+13921,351,2,672.11,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+13922,518,5,1332.38,1,4,3,8,At Risk,Medium Value,1,0,0,£500-2K
+13924,115,1,97.32,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+13925,8,5,6620.79,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+13926,58,6,5382.63,4,5,4,13,Champions,Champions,0,1,0,£5K-10K
+13929,267,1,406.11,2,1,2,5,Lost,Low Value,0,0,1,<£500
+13931,319,1,248.8,2,1,1,4,Lost,Low Value,0,0,1,<£500
+13932,17,1,304.56,5,1,2,8,New Customers,Medium Value,0,0,0,<£500
+13933,18,16,43168.09,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13934,158,5,6550.91,3,4,5,12,Loyal Customers,Champions,0,0,0,£5K-10K
+13935,563,1,93.96,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13936,33,6,10468.73,4,5,5,14,Champions,Champions,0,1,0,£10K+
+13939,411,1,43.72,1,1,1,3,Lost,Low Value,0,0,1,<£500
+13940,145,8,8658.51,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+13941,23,3,1852.37,5,3,4,12,Loyal Customers,Champions,0,0,0,£500-2K
+13942,220,2,1981.04,2,2,4,8,Needs Attention,Medium Value,0,0,0,£500-2K
+13945,111,5,4727.95,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13948,369,1,691.35,2,1,2,5,Lost,Low Value,0,0,1,£500-2K
+13949,64,1,311.0,4,1,2,7,New Customers,Medium Value,0,0,0,<£500
+13950,242,2,826.08,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13951,10,6,6091.19,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13952,180,2,494.46,3,2,2,7,Needs Attention,Medium Value,0,0,0,<£500
+13954,343,1,309.42,2,1,2,5,Lost,Low Value,0,0,1,<£500
+13955,47,5,2906.02,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13957,31,1,85.9,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+13958,14,9,10494.2,5,5,5,15,Champions,Champions,0,1,0,£10K+
+13959,259,3,1591.55,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+13960,174,1,355.74,3,1,2,6,Needs Attention,Medium Value,0,0,0,<£500
+13961,108,1,336.5,3,1,2,6,Needs Attention,Medium Value,0,0,0,<£500
+13962,35,5,2761.84,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+13964,421,3,1299.09,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+13965,521,3,784.13,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+13968,35,2,219.06,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+13970,55,7,6253.82,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+13972,132,5,3642.92,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13973,12,3,2322.15,5,3,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+13974,36,2,649.09,4,2,2,8,New Customers,Medium Value,0,0,0,£500-2K
+13975,177,5,2721.23,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13976,448,2,809.11,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+13977,109,3,1512.5,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+13978,45,6,5209.07,4,5,4,13,Champions,Champions,0,1,0,£5K-10K
+13979,559,2,1013.13,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+13980,149,2,536.9,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+13981,339,3,1710.01,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+13982,16,3,2276.88,5,3,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+13983,157,1,137.41,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+13986,218,1,294.19,2,1,2,5,Lost,Low Value,0,0,1,<£500
+13988,53,10,9231.1,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+13989,181,7,7283.62,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+13990,178,2,423.77,3,2,2,7,Needs Attention,Medium Value,0,0,0,<£500
+13992,102,5,2606.89,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+13993,2,7,6654.21,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+13994,89,6,5862.83,3,5,4,12,Loyal Customers,Champions,0,0,0,£5K-10K
+13996,172,1,76.56,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+13997,472,2,640.45,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+14001,269,3,811.79,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+14003,145,3,1890.12,3,3,4,10,Loyal Customers,High Value,0,0,0,£500-2K
+14004,4,1,107.64,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+14005,21,22,58225.34,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14006,127,2,1119.12,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+14007,539,1,812.23,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+14009,17,7,8999.45,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14010,372,2,182.62,2,2,1,5,Lost,Low Value,0,0,1,<£500
+14011,177,3,2430.04,3,3,4,10,Loyal Customers,High Value,0,0,0,£2K-5K
+14012,200,2,135.39,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+14015,93,1,190.32,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+14016,593,1,104.36,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14017,30,4,2225.85,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+14019,66,2,1590.67,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+14022,24,3,1635.55,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+14023,147,4,1961.84,3,4,4,11,Loyal Customers,High Value,0,0,0,£500-2K
+14024,536,3,2409.77,1,3,4,8,At Risk,Medium Value,1,0,0,£2K-5K
+14028,52,1,28.2,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+14030,189,6,5099.94,3,5,4,12,Loyal Customers,Champions,0,0,0,£5K-10K
+14031,360,2,1048.41,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+14032,361,1,415.62,2,1,2,5,Lost,Low Value,0,0,1,<£500
+14035,48,4,2298.16,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+14036,29,14,16166.04,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14037,85,1,579.72,4,1,2,7,New Customers,Medium Value,0,0,0,£500-2K
+14038,481,2,763.72,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+14039,183,2,366.81,3,2,2,7,Needs Attention,Medium Value,0,0,0,<£500
+14040,176,2,60.31,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+14041,22,5,4972.27,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+14043,30,3,1398.32,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14045,7,7,7042.77,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14046,307,2,1047.77,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+14047,128,4,3378.33,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+14050,56,2,1401.56,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+14051,109,4,1826.37,3,4,4,11,Loyal Customers,High Value,0,0,0,£500-2K
+14053,246,3,1450.69,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14054,93,6,5276.53,3,5,4,12,Loyal Customers,Champions,0,0,0,£5K-10K
+14057,10,19,51977.15,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14058,47,2,694.08,4,2,2,8,New Customers,Medium Value,0,0,0,£500-2K
+14060,198,4,3404.59,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+14061,133,9,10072.23,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+14062,461,1,216.3,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14066,201,2,621.43,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+14067,2,10,9253.52,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14069,59,4,1649.08,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+14070,514,1,279.11,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14071,472,1,29.46,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14072,276,2,884.59,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+14073,20,10,9456.63,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14074,2,25,71224.2,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14075,336,3,638.76,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+14077,96,2,349.5,3,2,2,7,Needs Attention,Medium Value,0,0,0,<£500
+14080,640,2,702.46,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+14081,269,3,3478.43,2,3,4,9,At Risk,High Value,1,0,0,£2K-5K
+14082,87,11,9585.11,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+14083,454,2,2191.27,1,2,4,7,Needs Attention,Medium Value,0,0,0,£2K-5K
+14084,343,1,52.03,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14087,237,5,2208.9,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+14090,40,5,6068.31,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+14092,15,1,116.46,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+14093,21,8,9258.93,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14094,719,1,592.78,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+14095,347,4,2824.09,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+14097,312,1,320.45,2,1,2,5,Lost,Low Value,0,0,1,<£500
+14099,35,2,808.88,4,2,2,8,New Customers,Medium Value,0,0,0,£500-2K
+14100,32,4,1554.17,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+14101,495,1,382.79,1,1,2,4,Lost,Low Value,0,0,1,<£500
+14102,628,1,31.77,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14103,139,1,365.26,3,1,2,6,Needs Attention,Medium Value,0,0,0,<£500
+14104,414,2,107.36,1,2,1,4,Lost,Low Value,0,0,1,<£500
+14109,355,1,67.1,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14111,177,1,573.41,3,1,2,6,Needs Attention,Medium Value,0,0,0,£500-2K
+14112,223,3,1505.58,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14113,51,3,2284.5,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+14114,15,1,248.92,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+14115,321,3,1531.46,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14117,49,3,2041.57,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+14118,117,4,3453.88,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+14120,50,5,4032.55,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+14121,34,5,4073.22,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+14123,438,3,1732.92,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+14124,182,2,816.02,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+14125,520,1,382.62,1,1,2,4,Lost,Low Value,0,0,1,<£500
+14126,429,1,237.3,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14127,218,4,987.88,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+14128,422,3,1169.78,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+14129,135,3,470.57,3,3,2,8,Price Sensitive,Medium Value,0,0,0,<£500
+14131,67,4,2848.62,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+14132,4,21,56495.57,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14134,127,5,1401.47,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14135,118,6,8769.45,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+14136,77,2,647.26,4,2,2,8,New Customers,Medium Value,0,0,0,£500-2K
+14140,296,2,488.97,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+14141,174,1,131.1,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+14144,211,3,2604.86,2,3,4,9,At Risk,High Value,1,0,0,£2K-5K
+14146,29,12,11246.27,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14149,25,2,1103.39,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+14151,79,2,1288.06,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+14152,264,1,44.16,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14155,2,5,6216.65,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+14156,38,6,2670.77,4,5,4,13,Champions,Champions,0,1,0,£2K-5K
+14158,94,5,5869.37,3,4,4,11,Loyal Customers,High Value,0,0,0,£5K-10K
+14161,54,7,9152.26,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+14162,138,6,5175.58,3,5,4,12,Loyal Customers,Champions,0,0,0,£5K-10K
+14163,13,5,5040.1,5,4,4,13,Champions,Champions,0,1,0,£5K-10K
+14165,18,7,7992.37,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14166,86,4,1165.54,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+14168,314,1,380.42,2,1,2,5,Lost,Low Value,0,0,1,<£500
+14169,220,5,6646.94,2,4,5,11,At Risk,High Value,1,0,0,£5K-10K
+14170,408,2,475.58,1,2,2,5,Lost,Low Value,0,0,1,<£500
+14174,18,15,40035.27,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14175,510,2,906.76,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+14176,422,1,71.55,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14177,268,5,2087.01,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+14179,180,2,581.9,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+14180,1,5,3857.9,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+14183,62,6,5250.51,4,5,4,13,Champions,Champions,0,1,0,£5K-10K
+14184,531,1,38.04,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14185,212,2,875.03,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+14186,177,4,2405.56,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+14187,33,6,7256.55,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+14188,484,1,210.2,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14190,426,1,122.97,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14191,60,8,7850.04,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+14193,122,3,2204.97,3,3,4,10,Loyal Customers,High Value,0,0,0,£2K-5K
+14195,530,2,1750.81,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+14196,40,5,6679.42,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+14197,74,7,10127.15,4,5,5,14,Champions,Champions,0,1,0,£10K+
+14199,201,3,1577.81,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+14201,206,2,1183.38,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+14202,481,1,703.57,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+14206,2,4,2959.8,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+14207,19,2,1294.7,5,2,3,10,New Customers,High Value,0,0,0,£500-2K
+14208,49,6,5396.07,4,5,4,13,Champions,Champions,0,1,0,£5K-10K
+14209,112,1,7.42,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+14210,444,5,1777.15,1,4,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14213,374,1,375.12,2,1,2,5,Lost,Low Value,0,0,1,<£500
+14214,50,2,839.42,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+14217,48,12,26681.82,4,5,5,14,Champions,Champions,0,1,0,£10K+
+14218,22,2,770.76,5,2,2,9,New Customers,High Value,0,0,0,£500-2K
+14219,206,2,1044.42,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+14220,528,3,2054.12,1,3,4,8,At Risk,Medium Value,1,0,0,£2K-5K
+14221,15,11,10155.26,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14222,59,19,54602.46,4,5,5,14,Champions,Champions,0,1,0,£10K+
+14223,362,1,164.08,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14224,42,3,1221.27,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14225,30,9,10454.55,4,5,5,14,Champions,Champions,0,1,0,£10K+
+14226,320,1,271.91,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14229,372,2,607.3,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+14230,261,2,657.72,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+14232,205,3,1749.19,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+14233,7,4,2369.29,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+14234,296,3,1399.32,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14235,40,7,7095.84,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+14236,604,1,275.9,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14238,326,1,97.4,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14239,351,2,687.81,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+14241,7,23,62097.7,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14242,82,2,1419.99,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+14243,354,1,292.87,2,1,2,5,Lost,Low Value,0,0,1,<£500
+14245,41,12,30018.06,4,5,5,14,Champions,Champions,0,1,0,£10K+
+14246,39,5,2020.78,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+14248,41,1,182.23,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+14249,8,1,16.96,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+14250,544,1,449.73,1,1,2,4,Lost,Low Value,0,0,1,<£500
+14251,18,9,8510.66,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14252,290,5,3201.68,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+14253,7,5,4780.61,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+14255,142,4,2711.0,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+14256,274,2,1281.02,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+14257,81,2,182.1,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+14258,394,3,2049.48,2,3,4,9,At Risk,High Value,1,0,0,£2K-5K
+14259,31,3,1359.95,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14262,210,1,310.5,2,1,2,5,Lost,Low Value,0,0,1,<£500
+14263,21,14,39484.59,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14265,731,1,118.12,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14266,3,7,8586.81,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14267,235,2,939.79,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+14269,7,14,32985.8,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14270,516,2,313.16,1,2,2,5,Lost,Low Value,0,0,1,<£500
+14271,703,1,23.54,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14272,46,4,2882.2,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+14273,56,9,21985.8,4,5,5,14,Champions,Champions,0,1,0,£10K+
+14275,116,2,1593.0,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+14276,643,2,430.08,1,2,2,5,Lost,Low Value,0,0,1,<£500
+14278,377,2,272.0,2,2,1,5,Lost,Low Value,0,0,1,<£500
+14280,3,1,438.13,5,1,2,8,New Customers,Medium Value,0,0,0,<£500
+14281,116,3,1274.8,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+14285,123,4,3576.84,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+14287,71,2,1542.23,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+14288,266,2,338.5,2,3,2,7,Price Sensitive,Medium Value,0,0,0,<£500
+14289,394,1,123.08,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14290,76,3,4126.82,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+14291,338,2,662.6,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+14292,21,4,2963.33,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+14293,261,2,687.15,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+14294,21,1,336.6,5,1,2,8,New Customers,Medium Value,0,0,0,<£500
+14295,526,1,554.6,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+14296,635,1,103.35,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14299,65,19,56533.5,4,5,5,14,Champions,Champions,0,1,0,£10K+
+14300,28,7,6562.99,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14301,537,2,185.94,1,3,1,5,Price Sensitive,Low Value,0,0,0,<£500
+14305,393,3,1470.09,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14306,396,4,1618.8,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+14307,292,1,822.67,2,1,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+14308,70,6,4941.01,4,5,4,13,Champions,Champions,0,1,0,£2K-5K
+14309,14,28,82981.74,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14311,372,3,1083.47,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14312,277,2,1758.79,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14313,56,5,5248.58,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+14315,505,1,384.34,1,1,2,4,Lost,Low Value,0,0,1,<£500
+14316,570,2,143.97,1,3,1,5,Price Sensitive,Low Value,0,0,0,<£500
+14318,30,3,1718.3,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14319,734,1,23.96,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14320,7,20,52234.25,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14321,24,9,9000.06,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14323,22,1,228.4,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+14324,281,2,495.75,2,3,2,7,Price Sensitive,Medium Value,0,0,0,<£500
+14327,24,10,25064.92,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14328,66,2,1322.8,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14329,414,3,1216.97,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+14332,18,5,2321.3,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+14333,4,5,4140.8,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+14336,63,2,211.31,4,3,1,8,Price Sensitive,Medium Value,0,0,0,<£500
+14337,12,6,5147.78,5,5,4,14,Champions,Champions,0,1,0,£5K-10K
+14338,4,2,473.34,5,3,2,10,Price Sensitive,High Value,0,0,0,<£500
+14339,225,1,38.68,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14340,327,1,403.37,2,1,2,5,Lost,Low Value,0,0,1,<£500
+14343,380,1,550.17,2,1,2,5,Lost,Low Value,0,0,1,£500-2K
+14345,6,2,823.27,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+14346,8,16,40806.06,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14348,287,2,894.53,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14349,344,4,4190.6,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+14351,251,3,1436.87,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14352,187,1,88.2,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+14354,3,6,3449.15,5,5,4,14,Champions,Champions,0,1,0,£2K-5K
+14356,70,3,1894.92,4,3,4,11,Loyal Customers,High Value,0,0,0,£500-2K
+14357,443,2,363.88,1,3,2,6,Price Sensitive,Medium Value,0,0,0,<£500
+14358,570,1,22.2,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14361,217,2,1064.33,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14363,219,3,3700.79,2,3,4,9,At Risk,High Value,1,0,0,£2K-5K
+14365,416,2,1952.77,1,3,4,8,At Risk,Medium Value,1,0,0,£500-2K
+14367,7,14,36518.75,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14368,728,1,261.56,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14369,737,1,674.08,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+14371,470,2,335.52,1,3,2,6,Price Sensitive,Medium Value,0,0,0,<£500
+14373,722,2,576.24,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+14375,23,8,7321.43,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14377,32,1,494.06,4,1,2,7,New Customers,Medium Value,0,0,0,<£500
+14381,487,1,328.69,1,1,2,4,Lost,Low Value,0,0,1,<£500
+14382,433,1,637.2,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+14383,234,1,3.81,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14384,90,6,6443.8,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+14385,398,1,430.59,1,1,2,4,Lost,Low Value,0,0,1,<£500
+14386,65,15,40104.72,4,5,5,14,Champions,Champions,0,1,0,£10K+
+14387,173,3,1201.5,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+14388,95,6,7090.19,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+14389,20,6,6204.96,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14390,296,3,1369.67,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14391,23,2,1003.56,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+14392,343,1,94.23,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14393,213,4,3310.95,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+14394,278,1,212.04,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14395,228,7,7181.08,2,5,5,12,At Risk,Champions,1,0,0,£5K-10K
+14396,438,1,142.56,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14398,722,1,174.33,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14400,496,1,231.55,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14401,436,1,195.36,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14402,552,1,437.79,1,1,2,4,Lost,Low Value,0,0,1,<£500
+14403,367,1,245.54,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14404,147,1,337.0,3,1,2,6,Needs Attention,Medium Value,0,0,0,<£500
+14405,7,13,35581.79,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14409,326,4,3676.12,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+14410,14,3,3161.86,5,3,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+14413,86,6,5598.77,4,5,4,13,Champions,Champions,0,1,0,£5K-10K
+14414,386,2,1235.21,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14415,97,1,122.64,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+14417,102,13,36169.8,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+14418,79,3,834.63,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14420,4,24,61959.65,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14421,208,4,825.82,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14423,593,1,19.24,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14424,55,4,1436.32,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+14425,46,8,8115.15,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+14426,25,23,64869.23,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14427,516,2,557.62,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+14429,225,1,1107.66,2,1,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+14430,459,1,283.36,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14432,277,1,312.79,2,1,2,5,Lost,Low Value,0,0,1,<£500
+14433,43,5,6328.72,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+14437,159,2,2644.0,3,3,4,10,Loyal Customers,High Value,0,0,0,£2K-5K
+14439,381,1,20.14,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14441,109,13,13496.42,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+14442,127,1,147.44,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+14445,26,3,1213.37,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+14446,190,4,4292.29,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+14447,362,2,448.57,2,3,2,7,Price Sensitive,Medium Value,0,0,0,<£500
+14448,578,1,249.01,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14451,41,4,1325.04,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+14452,384,1,411.91,2,1,2,5,Lost,Low Value,0,0,1,<£500
+14453,269,2,3378.05,2,3,4,9,At Risk,High Value,1,0,0,£2K-5K
+14454,176,3,1935.64,3,3,4,10,Loyal Customers,High Value,0,0,0,£500-2K
+14459,83,7,7244.12,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+14461,58,8,7960.32,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+14462,84,1,255.5,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+14463,425,3,2002.7,1,3,4,8,At Risk,Medium Value,1,0,0,£2K-5K
+14467,227,2,1812.32,2,3,4,9,At Risk,High Value,1,0,0,£500-2K
+14468,208,3,1360.09,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+14470,86,1,197.91,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+14471,118,6,8148.51,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+14474,37,4,2190.53,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+14476,556,1,211.05,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14477,354,2,209.38,2,3,1,6,Price Sensitive,Medium Value,0,0,0,<£500
+14478,640,2,529.89,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+14479,102,2,744.62,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+14480,519,1,314.82,1,1,2,4,Lost,Low Value,0,0,1,<£500
+14481,353,4,1671.12,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+14482,620,1,499.78,1,1,2,4,Lost,Low Value,0,0,1,<£500
+14485,17,3,2857.78,5,3,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+14487,611,2,679.96,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+14488,282,2,1259.18,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14489,466,1,289.44,1,1,2,4,Lost,Low Value,0,0,1,<£500
+14490,233,4,1911.54,2,4,4,10,At Risk,High Value,1,0,0,£500-2K
+14492,105,4,1442.88,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14494,46,12,11090.18,4,5,5,14,Champions,Champions,0,1,0,£10K+
+14495,385,1,116.56,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14498,157,3,1184.18,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+14500,54,2,1569.3,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14501,385,2,766.54,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+14502,152,2,135.76,3,3,1,7,Price Sensitive,Medium Value,0,0,0,<£500
+14504,122,2,851.04,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+14506,340,1,203.33,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14507,212,3,1916.76,2,3,4,9,At Risk,High Value,1,0,0,£500-2K
+14508,26,1,217.72,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+14509,594,1,286.2,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14511,37,4,2760.52,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+14513,11,7,6058.94,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14515,728,1,91.92,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14516,12,8,8274.09,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14520,94,4,2140.79,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+14521,30,6,8679.77,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+14522,682,2,334.97,1,3,2,6,Price Sensitive,Medium Value,0,0,0,<£500
+14523,374,4,3496.31,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+14525,30,11,12196.37,4,5,5,14,Champions,Champions,0,1,0,£10K+
+14527,428,3,1165.72,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+14528,414,1,716.1,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+14529,86,1,54.81,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+14530,16,4,2106.75,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+14531,249,4,3056.04,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+14532,38,2,399.12,4,3,2,9,Price Sensitive,High Value,0,0,0,<£500
+14533,397,2,491.28,2,3,2,7,Price Sensitive,Medium Value,0,0,0,<£500
+14534,454,4,4630.34,1,4,4,9,At Risk,High Value,1,0,0,£2K-5K
+14536,386,1,463.86,2,1,2,5,Lost,Low Value,0,0,1,<£500
+14537,564,1,58.92,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14541,54,3,1324.06,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14542,18,11,10383.24,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14543,17,3,727.62,5,3,2,10,Price Sensitive,High Value,0,0,0,£500-2K
+14547,46,10,10770.94,4,5,5,14,Champions,Champions,0,1,0,£10K+
+14549,162,2,450.98,3,3,2,8,Price Sensitive,Medium Value,0,0,0,<£500
+14550,5,17,41495.41,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14551,21,1,429.84,5,1,2,8,New Customers,Medium Value,0,0,0,<£500
+14552,28,17,49416.34,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14553,15,2,374.85,5,3,2,10,Price Sensitive,High Value,0,0,0,<£500
+14554,17,3,2088.97,5,3,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+14555,32,3,1546.38,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14556,347,1,181.25,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14558,317,1,56.65,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14562,24,5,3698.51,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+14563,20,2,372.66,5,3,2,10,Price Sensitive,High Value,0,0,0,<£500
+14564,47,2,1402.35,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14565,76,20,59134.01,4,5,5,14,Champions,Champions,0,1,0,£10K+
+14566,12,1,538.49,5,1,2,8,New Customers,Medium Value,0,0,0,£500-2K
+14568,10,9,9500.57,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14572,452,1,541.15,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+14574,405,1,638.38,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+14576,5,9,8837.81,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14577,20,22,56000.22,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14579,298,3,571.67,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+14580,36,2,1105.7,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14581,363,3,4531.92,2,3,4,9,At Risk,High Value,1,0,0,£2K-5K
+14583,18,23,61009.43,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14585,36,7,6429.76,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+14586,32,7,6288.16,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+14587,322,2,1942.93,2,3,4,9,At Risk,High Value,1,0,0,£500-2K
+14589,378,3,1103.48,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14590,180,4,2121.63,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+14592,90,2,279.25,3,3,1,7,Price Sensitive,Medium Value,0,0,0,<£500
+14593,146,9,31811.16,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+14594,317,1,1039.54,2,1,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+14596,281,4,2349.41,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+14597,57,5,5148.73,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+14598,84,1,122.92,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+14599,29,2,137.54,5,3,1,9,Price Sensitive,High Value,0,0,0,<£500
+14600,432,1,416.16,1,1,2,4,Lost,Low Value,0,0,1,<£500
+14601,102,5,5249.03,3,4,4,11,Loyal Customers,High Value,0,0,0,£5K-10K
+14602,8,7,6796.79,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14603,625,2,224.3,1,3,1,5,Price Sensitive,Low Value,0,0,0,<£500
+14604,89,2,1284.51,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+14605,374,2,172.16,2,3,1,6,Price Sensitive,Medium Value,0,0,0,<£500
+14607,271,3,1635.09,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14610,494,1,38.48,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14611,32,5,8737.44,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+14612,34,5,3219.37,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+14613,508,1,165.18,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14614,14,10,10998.57,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14616,32,10,11064.85,4,5,5,14,Champions,Champions,0,1,0,£10K+
+14617,80,3,1142.22,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14618,2,4,2414.8,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+14619,463,1,138.88,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14620,57,8,5521.92,4,5,4,13,Champions,Champions,0,1,0,£5K-10K
+14621,166,2,394.51,3,3,2,8,Price Sensitive,Medium Value,0,0,0,<£500
+14624,5,23,65757.8,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14627,632,1,1082.16,1,1,3,5,Needs Attention,Low Value,0,0,0,£500-2K
+14629,56,9,19960.3,4,5,5,14,Champions,Champions,0,1,0,£10K+
+14631,666,1,23.68,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14632,1,3,1241.98,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+14633,562,1,387.91,1,1,2,4,Lost,Low Value,0,0,1,<£500
+14634,56,8,9717.77,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+14636,127,20,43889.18,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+14637,246,1,655.75,2,1,2,5,Lost,Low Value,0,0,1,£500-2K
+14638,348,2,551.11,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+14640,90,2,1789.41,3,3,4,10,Loyal Customers,High Value,0,0,0,£500-2K
+14641,175,2,206.7,3,3,1,7,Price Sensitive,Medium Value,0,0,0,<£500
+14642,69,1,379.57,4,1,2,7,New Customers,Medium Value,0,0,0,<£500
+14644,42,5,3235.12,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+14645,77,6,6670.48,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+14646,214,1,454.24,2,1,2,5,Lost,Low Value,0,0,1,<£500
+14647,556,1,102.85,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14648,10,9,10816.55,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14650,90,3,2352.64,3,3,4,10,Loyal Customers,High Value,0,0,0,£2K-5K
+14653,390,1,45.66,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14654,337,2,815.27,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+14655,329,4,1698.32,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+14656,5,21,59144.64,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14657,107,4,1762.62,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14658,531,1,131.36,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14661,34,3,1388.5,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14662,612,1,212.74,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14663,114,2,1379.56,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+14664,37,1,463.9,4,1,2,7,New Customers,Medium Value,0,0,0,<£500
+14665,362,1,421.0,2,1,2,5,Lost,Low Value,0,0,1,<£500
+14666,72,3,1036.23,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14667,8,3,1262.96,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+14670,198,2,1022.72,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+14671,19,15,42856.23,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14672,356,1,295.93,2,1,2,5,Lost,Low Value,0,0,1,<£500
+14674,69,5,6103.4,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+14675,495,1,123.36,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14678,20,12,11898.41,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14681,20,2,1249.77,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+14684,33,2,860.48,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14685,436,2,2254.59,1,3,4,8,At Risk,Medium Value,1,0,0,£2K-5K
+14686,239,2,856.49,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14687,276,1,30.05,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14688,212,8,5359.99,2,5,4,11,At Risk,High Value,1,0,0,£5K-10K
+14692,22,5,3522.99,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+14693,413,1,165.79,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14694,31,6,8173.84,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+14695,226,2,1612.39,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14696,726,1,174.9,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14697,41,3,822.51,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14699,158,9,9572.3,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+14700,21,2,1107.95,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+14701,100,8,7852.92,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+14704,318,1,204.96,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14705,251,2,1236.8,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14706,19,10,11609.81,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14708,481,1,232.78,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14709,40,4,1906.42,4,4,4,12,Champions,Champions,0,1,0,£500-2K
+14711,4,15,39792.94,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14714,349,2,92.62,2,3,1,6,Price Sensitive,Medium Value,0,0,0,<£500
+14715,19,6,5063.89,5,5,4,14,Champions,Champions,0,1,0,£5K-10K
+14716,23,9,8278.18,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14718,258,1,139.16,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14719,154,3,1466.46,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+14720,263,6,5550.31,2,5,4,11,At Risk,High Value,1,0,0,£5K-10K
+14721,212,1,102.17,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14724,51,4,2411.05,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+14725,3,5,2721.16,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+14728,124,9,6655.81,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+14730,105,2,448.66,3,3,2,8,Price Sensitive,Medium Value,0,0,0,<£500
+14731,34,2,417.14,4,3,2,9,Price Sensitive,High Value,0,0,0,<£500
+14732,115,3,1401.37,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+14734,235,1,354.16,2,1,2,5,Lost,Low Value,0,0,1,<£500
+14735,701,1,658.6,1,1,2,4,Lost,Low Value,0,0,1,£500-2K
+14736,89,4,1647.89,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14737,34,6,4833.55,4,5,4,13,Champions,Champions,0,1,0,£2K-5K
+14738,152,4,4758.99,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+14740,38,4,3253.84,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+14741,44,2,573.26,4,3,2,9,Price Sensitive,High Value,0,0,0,£500-2K
+14742,105,5,2325.69,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+14744,418,3,1552.03,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+14745,5,1,253.44,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+14746,28,4,4953.26,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+14747,306,3,1363.92,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14748,550,1,32.44,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14749,705,1,75.27,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14751,356,3,1730.72,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14752,18,6,6697.73,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14753,62,5,3464.05,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+14754,4,23,57401.61,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14756,544,2,449.85,1,3,2,6,Price Sensitive,Medium Value,0,0,0,<£500
+14758,159,2,1997.56,3,3,4,10,Loyal Customers,High Value,0,0,0,£500-2K
+14759,1,11,8821.25,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14760,541,2,285.2,1,3,1,5,Price Sensitive,Low Value,0,0,0,<£500
+14761,99,6,7291.17,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+14762,17,7,8120.47,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14763,434,2,663.96,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+14765,38,1,29.55,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+14766,204,1,336.07,3,1,2,6,Needs Attention,Medium Value,0,0,0,<£500
+14767,638,1,398.4,1,1,2,4,Lost,Low Value,0,0,1,<£500
+14769,73,4,2966.52,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+14771,90,3,2002.26,3,3,4,10,Loyal Customers,High Value,0,0,0,£2K-5K
+14772,569,3,1996.08,1,3,4,8,At Risk,Medium Value,1,0,0,£500-2K
+14773,612,1,183.32,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14776,155,1,86.61,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+14777,127,3,1513.94,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+14778,616,1,400.45,1,1,2,4,Lost,Low Value,0,0,1,<£500
+14779,98,4,1840.44,3,4,4,11,Loyal Customers,High Value,0,0,0,£500-2K
+14780,110,3,1356.41,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+14781,121,4,2129.18,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+14783,52,3,1182.1,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14784,642,2,521.07,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+14785,304,3,1865.84,2,3,4,9,At Risk,High Value,1,0,0,£500-2K
+14787,660,1,235.29,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14789,5,3,441.49,5,3,2,10,Price Sensitive,High Value,0,0,0,<£500
+14791,26,15,39870.69,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14793,18,1,141.28,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+14794,133,2,745.76,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+14795,383,3,1733.81,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14797,2,16,42001.46,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14799,67,6,3600.44,4,5,4,13,Champions,Champions,0,1,0,£2K-5K
+14800,92,4,1312.45,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14801,27,11,10768.67,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14802,583,2,2195.8,1,3,4,8,At Risk,Medium Value,1,0,0,£2K-5K
+14803,23,3,1002.19,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+14804,108,4,1217.7,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14806,144,2,1086.65,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+14808,377,1,220.83,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14810,85,9,9364.4,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+14811,18,2,1594.54,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+14812,236,4,1820.47,2,4,4,10,At Risk,High Value,1,0,0,£500-2K
+14813,150,1,447.51,3,1,2,6,Needs Attention,Medium Value,0,0,0,<£500
+14815,84,6,6566.61,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+14816,117,1,2124.13,3,1,4,8,Needs Attention,Medium Value,0,0,0,£2K-5K
+14818,213,1,67.59,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14820,641,1,403.4,1,1,2,4,Lost,Low Value,0,0,1,<£500
+14822,15,4,3748.55,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+14823,33,11,9727.53,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+14826,641,2,1108.78,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+14828,709,1,31.52,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14832,13,17,45146.33,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14833,76,5,5878.37,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+14834,351,1,187.81,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14836,647,2,741.4,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+14837,80,1,665.15,4,1,2,7,New Customers,Medium Value,0,0,0,£500-2K
+14839,105,4,2210.49,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+14840,3,5,3934.7,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+14843,49,2,114.47,4,3,1,8,Price Sensitive,Medium Value,0,0,0,<£500
+14844,10,3,2053.53,5,3,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+14845,60,1,355.62,4,1,2,7,New Customers,Medium Value,0,0,0,<£500
+14846,382,1,75.9,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14849,168,6,1953.59,3,5,4,12,Loyal Customers,Champions,0,0,0,£500-2K
+14850,18,9,10505.89,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14851,55,6,8450.05,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+14852,550,2,990.04,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+14853,498,1,460.05,1,1,2,4,Lost,Low Value,0,0,1,<£500
+14856,239,1,161.82,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14857,223,2,453.4,2,3,2,7,Price Sensitive,Medium Value,0,0,0,<£500
+14858,35,4,1764.65,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+14859,122,1,479.75,3,1,2,6,Needs Attention,Medium Value,0,0,0,<£500
+14860,7,4,4130.16,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+14861,14,8,6657.21,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14864,81,9,9263.57,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+14865,45,19,45809.89,4,5,5,14,Champions,Champions,0,1,0,£10K+
+14866,10,1,106.8,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+14867,113,1,525.91,3,1,2,6,Needs Attention,Medium Value,0,0,0,£500-2K
+14869,424,1,68.0,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14871,407,2,896.89,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+14872,303,1,377.45,2,1,2,5,Lost,Low Value,0,0,1,<£500
+14873,58,3,867.47,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14874,469,1,11.04,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14875,47,2,191.71,4,3,1,8,Price Sensitive,Medium Value,0,0,0,<£500
+14876,355,4,4820.08,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+14877,306,1,307.44,2,1,2,5,Lost,Low Value,0,0,1,<£500
+14881,416,2,519.98,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+14882,79,5,5547.11,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+14887,359,6,5717.84,2,5,4,11,At Risk,High Value,1,0,0,£5K-10K
+14889,44,11,30988.93,4,5,5,14,Champions,Champions,0,1,0,£10K+
+14890,121,1,532.66,3,1,2,6,Needs Attention,Medium Value,0,0,0,£500-2K
+14892,22,4,4202.76,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+14893,85,1,84.64,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+14894,13,10,20887.97,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14895,38,6,5409.28,4,5,4,13,Champions,Champions,0,1,0,£5K-10K
+14897,272,1,119.07,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14901,64,4,1229.07,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+14902,8,13,35499.9,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14903,23,12,10166.3,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14904,172,2,70.33,3,3,1,7,Price Sensitive,Medium Value,0,0,0,<£500
+14906,20,4,1862.13,5,4,4,13,Champions,Champions,0,1,0,£500-2K
+14907,102,1,203.22,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+14908,733,1,209.37,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14909,4,7,6742.45,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14910,39,5,4430.3,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+14912,736,1,157.08,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14914,159,5,4565.96,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+14916,359,1,680.58,2,1,2,5,Lost,Low Value,0,0,1,£500-2K
+14917,12,23,64943.1,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14919,253,2,698.46,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+14921,384,5,5081.89,2,4,4,10,At Risk,High Value,1,0,0,£5K-10K
+14922,209,1,38.08,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14924,17,2,966.8,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+14925,414,1,95.56,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14926,211,6,6223.09,2,5,5,12,At Risk,Champions,1,0,0,£5K-10K
+14927,530,1,396.2,1,1,2,4,Lost,Low Value,0,0,1,<£500
+14928,152,3,1270.14,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+14929,113,6,3901.23,3,5,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+14930,31,4,1987.03,4,4,4,12,Champions,Champions,0,1,0,£500-2K
+14931,50,3,3595.17,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+14933,114,4,2892.23,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+14934,135,2,928.89,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+14935,184,1,530.53,3,1,2,6,Needs Attention,Medium Value,0,0,0,£500-2K
+14936,358,2,1443.44,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14937,532,1,71.2,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14939,390,2,1120.67,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14941,521,1,44.54,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14942,10,6,5847.52,5,5,4,14,Champions,Champions,0,1,0,£5K-10K
+14947,16,4,1396.3,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+14950,217,4,1785.64,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+14951,133,1,147.17,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+14952,369,2,742.42,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+14955,29,16,40148.73,5,5,5,15,Champions,Champions,0,1,0,£10K+
+14956,41,6,1590.69,4,5,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+14957,490,1,286.68,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14958,249,4,4003.09,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+14959,96,16,46096.51,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+14960,14,4,2806.38,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+14961,409,3,958.59,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+14962,291,2,514.35,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+14963,606,2,536.05,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+14964,138,6,4566.7,3,5,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+14968,80,1,1063.97,4,1,3,8,New Customers,Medium Value,0,0,0,£500-2K
+14969,630,1,177.3,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14970,24,7,7699.25,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+14971,34,10,12432.45,4,5,5,14,Champions,Champions,0,1,0,£10K+
+14972,7,6,5548.61,5,5,4,14,Champions,Champions,0,1,0,£5K-10K
+14974,369,1,166.9,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14976,251,2,447.87,2,3,2,7,Price Sensitive,Medium Value,0,0,0,<£500
+14977,710,1,166.63,1,1,1,3,Lost,Low Value,0,0,1,<£500
+14978,430,4,1485.56,1,4,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14979,6,1,218.7,5,1,1,7,New Customers,Medium Value,0,0,0,<£500
+14980,110,17,51147.88,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+14982,254,2,345.62,2,3,2,7,Price Sensitive,Medium Value,0,0,0,<£500
+14984,50,3,1200.42,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+14985,453,2,1620.71,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+14989,379,2,1574.48,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+14990,110,1,138.6,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+14996,265,1,42.9,2,1,1,4,Lost,Low Value,0,0,1,<£500
+14998,45,5,3446.79,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+14999,78,9,9902.02,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15001,160,1,72.56,3,1,1,5,Needs Attention,Low Value,0,0,0,<£500
+15002,659,1,234.42,1,1,1,3,Lost,Low Value,0,0,1,<£500
+15003,305,2,1245.17,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15004,2,9,8410.09,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15005,648,1,259.34,1,1,1,3,Lost,Low Value,0,0,1,<£500
+15006,39,1,13.1,4,1,1,6,New Customers,Medium Value,0,0,0,<£500
+15008,20,2,1272.52,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+15010,25,9,10673.86,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15012,218,3,956.52,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15015,607,1,15.84,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15016,257,1,32.0,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15017,93,1,215.38,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+15018,83,3,2026.0,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15019,270,2,2399.39,2,3,4,9,At Risk,High Value,1,0,0,£2K-5K
+15021,1,2,604.1,5,3,2,10,Price Sensitive,High Value,0,0,0,£500-2K
+15022,677,1,71.1,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15023,2,3,603.73,5,3,2,10,Price Sensitive,High Value,0,0,0,£500-2K
+15024,19,16,47659.22,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15025,167,13,39947.2,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+15026,222,1,436.31,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+15030,70,17,48973.93,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15031,160,4,2380.35,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15032,260,1,223.19,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15033,46,2,1009.62,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+15034,64,7,7331.16,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15036,506,2,1735.48,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+15038,37,3,1498.28,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+15040,109,2,229.08,3,3,1,7,Price Sensitive,Medium Value,0,0,0,<£500
+15042,28,15,37830.81,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15043,31,1,235.62,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+15045,42,5,5077.29,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+15046,377,7,6479.46,2,5,5,12,At Risk,Champions,1,0,0,£5K-10K
+15047,191,5,2566.95,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15050,604,1,430.99,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15051,317,4,3109.91,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+15052,24,20,51085.16,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15054,78,9,12368.31,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15057,37,6,3479.55,4,5,4,13,Champions,Champions,0,1,0,£2K-5K
+15059,36,5,4515.71,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+15061,74,3,4120.63,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15063,116,3,1298.22,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15064,627,1,293.36,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15065,132,1,144.31,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+15066,164,6,8543.79,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15067,25,1,115.8,5,2,1,8,New Customers,Medium Value,0,0,0,<£500
+15068,56,4,3764.27,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+15070,212,5,6060.43,2,4,5,11,At Risk,High Value,1,0,0,£5K-10K
+15071,54,2,389.0,4,3,2,9,Price Sensitive,High Value,0,0,0,<£500
+15072,361,4,3587.06,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+15073,263,3,1490.59,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15074,25,2,1342.51,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+15075,365,1,150.8,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15076,397,2,1162.44,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15079,92,10,9664.79,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15081,84,6,7055.68,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15082,89,3,1706.15,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15083,550,1,209.13,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15084,723,1,130.91,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15086,76,1,141.69,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+15087,57,3,2036.77,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15088,30,5,6117.22,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+15089,577,1,37.6,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15090,394,1,89.44,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15091,37,2,110.58,4,3,1,8,Price Sensitive,Medium Value,0,0,0,<£500
+15092,210,3,846.97,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15093,24,5,2639.1,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+15094,87,3,867.58,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+15095,20,19,45758.56,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15096,159,5,2456.35,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15099,199,2,412.19,3,3,2,8,Price Sensitive,Medium Value,0,0,0,<£500
+15100,308,1,596.76,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+15101,4,24,63693.68,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15103,21,13,36159.29,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15105,380,2,1127.27,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15106,36,3,1516.82,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+15108,5,20,52456.68,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15109,705,1,83.58,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15110,543,1,533.48,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+15112,511,1,277.68,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15113,333,1,210.7,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15115,11,23,65631.79,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15117,4,7,7981.99,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15118,29,4,2009.26,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+15119,169,2,1135.45,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15120,65,11,35804.95,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15121,41,4,3978.86,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+15124,21,4,3050.45,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+15125,100,5,3801.31,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15128,480,1,650.16,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+15129,24,13,38046.87,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15130,111,4,2198.89,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15131,51,6,5509.38,4,5,4,13,Champions,Champions,0,1,0,£5K-10K
+15132,6,8,6969.87,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15133,131,3,1203.65,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15134,3,1,416.7,5,2,2,9,New Customers,High Value,0,0,0,<£500
+15136,468,2,1579.09,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+15139,465,1,491.37,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15140,544,2,430.28,1,3,2,6,Price Sensitive,Medium Value,0,0,0,<£500
+15141,21,3,1688.79,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+15142,48,3,1854.24,4,3,4,11,Loyal Customers,High Value,0,0,0,£500-2K
+15143,269,2,486.81,2,3,2,7,Price Sensitive,Medium Value,0,0,0,<£500
+15144,159,2,565.98,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+15147,203,5,1865.02,3,4,4,11,Loyal Customers,High Value,0,0,0,£500-2K
+15149,113,8,6157.52,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15150,634,1,449.11,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15151,260,4,1815.69,2,4,4,10,At Risk,High Value,1,0,0,£500-2K
+15152,46,3,2173.32,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15154,1,13,15704.15,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15155,422,1,114.78,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15156,354,2,344.47,2,3,2,7,Price Sensitive,Medium Value,0,0,0,<£500
+15158,561,2,844.45,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+15161,373,2,603.93,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+15162,210,6,5576.06,2,5,4,11,At Risk,High Value,1,0,0,£5K-10K
+15163,57,5,1287.11,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+15167,84,6,3398.6,4,5,4,13,Champions,Champions,0,1,0,£2K-5K
+15168,64,8,8429.62,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15169,44,18,44001.46,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15170,117,3,1372.21,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15171,229,1,85.13,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15172,303,1,7.61,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15173,348,2,380.48,2,3,2,7,Price Sensitive,Medium Value,0,0,0,<£500
+15174,306,1,114.54,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15175,83,4,2337.14,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+15176,354,1,326.06,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+15177,79,3,1202.77,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+15178,57,7,7777.31,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15179,28,9,7324.01,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15180,70,12,14512.16,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15181,275,5,4842.23,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+15182,76,12,30704.13,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15183,388,1,293.0,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+15184,382,3,1084.7,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15186,23,5,6969.12,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+15187,101,3,1843.74,3,3,4,10,Loyal Customers,High Value,0,0,0,£500-2K
+15188,711,1,318.82,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15189,20,24,60513.25,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15191,96,12,34818.08,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+15196,482,1,105.82,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15197,90,1,412.32,3,2,2,7,Needs Attention,Medium Value,0,0,0,<£500
+15199,50,13,37699.37,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15200,11,7,8082.55,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15201,398,1,39.43,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15202,424,1,33.02,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15204,123,8,7338.46,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15206,269,3,1841.26,2,3,4,9,At Risk,High Value,1,0,0,£500-2K
+15208,34,4,1939.0,4,4,4,12,Champions,Champions,0,1,0,£500-2K
+15209,453,3,1627.81,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+15210,80,9,10802.34,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15211,42,1,16.9,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+15213,170,3,1410.3,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15214,180,4,2050.58,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15216,109,1,54.23,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+15217,181,2,766.53,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+15218,15,3,636.37,5,3,2,10,Price Sensitive,High Value,0,0,0,£500-2K
+15220,396,1,100.36,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15221,350,4,3190.09,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+15222,462,1,89.08,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15224,44,20,51974.77,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15226,48,6,5139.0,4,5,4,13,Champions,Champions,0,1,0,£5K-10K
+15227,598,1,53.64,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15228,306,3,1679.77,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15229,48,2,1136.93,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+15231,126,3,666.22,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+15232,268,1,121.2,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15233,30,11,30419.06,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15234,5,19,51305.23,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15236,208,1,652.55,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+15237,88,2,3815.45,3,3,4,10,Loyal Customers,High Value,0,0,0,£2K-5K
+15238,24,12,12027.9,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15239,15,3,1437.05,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+15242,88,8,8959.4,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15243,42,10,11302.53,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15245,540,2,689.0,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+15248,495,1,36.24,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15249,124,3,3632.79,3,3,4,10,Loyal Customers,High Value,0,0,0,£2K-5K
+15251,731,1,302.08,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15253,728,1,1161.52,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+15254,90,2,944.8,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15255,236,8,8007.08,2,5,5,12,At Risk,Champions,1,0,0,£5K-10K
+15257,12,2,399.33,5,3,2,10,Price Sensitive,High Value,0,0,0,<£500
+15258,432,1,845.37,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+15259,13,4,1580.93,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+15263,58,6,6949.12,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15264,188,3,2195.89,3,3,4,10,Loyal Customers,High Value,0,0,0,£2K-5K
+15265,35,9,12075.91,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15266,111,1,115.2,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+15269,731,2,1194.64,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+15271,34,5,7102.43,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+15273,72,6,7369.52,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15275,573,1,17.3,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15278,216,8,5778.92,2,5,4,11,At Risk,High Value,1,0,0,£5K-10K
+15279,1,23,63908.35,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15281,103,1,606.79,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+15282,603,4,2694.69,1,4,4,9,At Risk,High Value,1,0,0,£2K-5K
+15283,261,1,565.22,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+15285,30,18,47725.74,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15286,603,1,532.92,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+15287,22,8,20250.36,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15288,60,3,2285.31,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15291,112,1,184.71,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+15292,24,7,5770.62,5,5,4,14,Champions,Champions,0,1,0,£5K-10K
+15295,9,9,12241.91,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15297,379,1,484.45,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+15299,70,1,240.67,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+15300,314,1,852.52,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+15301,138,2,650.92,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+15302,589,1,463.82,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15303,40,2,1673.8,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+15304,640,1,950.97,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+15305,589,1,80.7,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15306,722,1,63.88,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15307,444,3,2095.54,1,3,4,8,At Risk,Medium Value,1,0,0,£2K-5K
+15311,608,1,104.0,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15312,469,3,1375.89,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+15313,20,2,1021.64,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+15314,32,4,3505.86,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+15315,2,1,751.57,5,2,2,9,New Customers,High Value,0,0,0,£500-2K
+15316,246,2,1088.96,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15319,56,9,10722.97,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15320,181,1,125.16,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+15321,369,1,271.38,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15322,33,3,2890.49,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15324,80,1,44.66,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+15325,157,5,3561.36,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15326,402,1,31.95,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15327,471,1,968.7,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+15328,354,1,149.11,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15329,193,8,23559.28,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+15331,17,3,741.63,5,3,2,10,Price Sensitive,High Value,0,0,0,£500-2K
+15333,337,2,1458.32,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15336,451,1,739.86,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+15337,646,1,297.62,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15338,159,2,709.14,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+15340,149,3,979.65,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15343,201,2,1081.14,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15344,147,4,2512.9,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15345,22,2,542.6,5,3,2,10,Price Sensitive,High Value,0,0,0,£500-2K
+15350,69,2,951.91,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+15351,158,1,288.82,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+15352,407,3,1673.99,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+15353,126,7,8398.9,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15354,4,2,512.27,5,3,2,10,Price Sensitive,High Value,0,0,0,£500-2K
+15355,67,7,5989.6,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15356,125,2,1896.52,3,3,4,10,Loyal Customers,High Value,0,0,0,£500-2K
+15361,503,2,768.9,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+15362,26,17,41977.19,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15363,53,1,110.79,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+15364,524,3,1041.29,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+15365,125,4,5393.2,3,4,4,11,Loyal Customers,High Value,0,0,0,£5K-10K
+15366,469,1,289.83,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15367,6,17,53641.75,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15369,36,8,9145.37,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15370,133,6,6477.1,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15371,30,5,5221.1,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+15373,589,1,25.88,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15375,195,2,1087.96,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15376,392,1,274.21,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15377,632,1,458.12,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15378,433,2,670.36,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+15380,191,1,581.3,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+15381,411,1,778.4,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+15383,29,8,6837.86,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15385,67,8,24560.4,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15386,68,4,1555.46,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+15387,52,3,837.51,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+15391,371,3,1799.78,2,3,4,9,At Risk,High Value,1,0,0,£500-2K
+15396,687,1,63.83,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15397,404,1,18.7,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15398,61,4,1185.55,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+15399,352,2,1654.38,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15400,112,5,2043.99,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15401,48,7,7187.5,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15402,160,4,3876.69,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15403,3,8,6933.47,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15404,235,1,146.43,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15407,178,1,3.07,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+15408,69,7,6151.89,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15411,164,3,1178.98,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15412,210,1,63.64,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15414,18,2,39.1,5,3,1,9,Price Sensitive,High Value,0,0,0,<£500
+15416,50,5,3910.51,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+15417,22,4,4949.65,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+15418,349,2,1283.57,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15419,384,1,380.0,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+15422,217,2,1384.85,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15423,16,16,44426.58,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15425,637,1,316.16,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15426,38,12,9326.62,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15427,101,3,1207.91,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15430,422,1,306.73,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15431,247,2,1065.55,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15433,222,1,301.35,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+15434,47,5,1913.65,4,4,4,12,Champions,Champions,0,1,0,£500-2K
+15435,45,3,1954.0,4,3,4,11,Loyal Customers,High Value,0,0,0,£500-2K
+15437,353,1,501.79,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+15438,44,13,10517.3,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15439,712,1,291.95,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15440,75,4,1892.07,4,4,4,12,Champions,Champions,0,1,0,£500-2K
+15441,20,1,261.38,5,2,1,8,New Customers,Medium Value,0,0,0,<£500
+15442,6,3,4078.32,5,3,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+15444,273,2,613.21,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+15445,88,15,47590.79,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+15446,84,9,8955.17,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15449,285,1,436.74,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+15450,535,1,135.07,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15451,397,1,47.28,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15453,175,2,879.1,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15454,83,1,28.42,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+15455,11,7,7090.91,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15459,85,3,946.29,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+15460,90,6,5599.6,3,5,4,12,Loyal Customers,Champions,0,0,0,£5K-10K
+15463,253,1,376.23,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+15465,8,19,54523.43,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15466,232,3,2016.59,2,3,4,9,At Risk,High Value,1,0,0,£2K-5K
+15468,233,2,532.41,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+15469,4,3,886.63,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+15472,130,8,6979.5,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15475,61,8,6412.41,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15477,104,4,1418.41,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+15478,321,4,1502.32,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+15481,125,5,4127.85,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15482,603,2,1004.92,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+15483,252,3,1394.09,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15484,350,2,822.99,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15485,62,2,667.69,4,3,2,9,Price Sensitive,High Value,0,0,0,£500-2K
+15486,92,8,6504.8,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15487,33,1,96.45,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+15488,407,2,933.21,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+15489,75,3,2695.91,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15492,423,1,294.56,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15493,367,1,360.65,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+15495,21,3,1191.88,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+15496,165,4,2176.93,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15497,640,1,262.26,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15498,5,26,79071.28,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15499,198,5,4864.37,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15500,8,15,37141.6,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15501,4,3,4435.06,5,3,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+15502,155,4,4076.86,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15504,428,2,661.86,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+15505,201,3,2329.63,3,3,4,10,Loyal Customers,High Value,0,0,0,£2K-5K
+15508,317,1,317.9,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+15509,218,3,1891.56,2,3,4,9,At Risk,High Value,1,0,0,£500-2K
+15511,375,2,850.98,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15512,257,2,748.35,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+15513,428,2,565.69,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+15514,116,1,269.39,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+15515,144,3,1270.04,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15516,705,1,222.88,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15517,302,1,372.62,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+15519,272,5,4575.09,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+15520,207,4,3408.46,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15521,27,6,2683.05,5,5,4,14,Champions,Champions,0,1,0,£2K-5K
+15525,148,3,1093.34,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15526,21,8,6613.95,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15527,24,5,4963.93,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+15528,132,1,818.94,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+15529,87,8,4929.55,4,5,4,13,Champions,Champions,0,1,0,£2K-5K
+15530,29,10,10630.1,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15531,366,1,23.52,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15532,10,16,37903.26,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15533,498,1,315.46,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15534,141,4,2211.11,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15535,86,1,3.44,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+15536,51,2,371.18,4,3,2,9,Price Sensitive,High Value,0,0,0,<£500
+15537,107,2,687.97,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+15538,19,5,3597.62,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+15541,30,5,5339.79,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+15542,69,4,4438.04,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+15544,100,5,3995.05,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15545,194,1,341.67,3,2,2,7,Needs Attention,Medium Value,0,0,0,<£500
+15546,247,5,3224.19,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+15547,26,10,6562.22,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15548,560,1,97.28,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15550,672,1,270.19,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15551,694,1,311.07,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15553,317,1,31.43,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15554,169,9,6954.01,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15555,359,1,360.84,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+15557,115,1,172.33,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+15558,324,1,102.14,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15559,1,7,8062.45,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15560,14,1,116.71,5,2,1,8,New Customers,Medium Value,0,0,0,<£500
+15561,454,1,456.25,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15562,52,11,29498.71,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15563,141,1,898.59,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+15564,199,3,1802.34,3,4,4,11,Loyal Customers,High Value,0,0,0,£500-2K
+15565,101,1,67.4,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+15566,18,4,2825.98,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+15567,456,1,377.45,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15569,3,2,35.06,5,3,1,9,Price Sensitive,High Value,0,0,0,<£500
+15572,17,18,49037.94,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15573,289,1,183.14,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15574,52,3,811.72,4,4,2,10,Price Sensitive,High Value,0,0,0,£500-2K
+15576,324,2,693.69,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+15579,706,1,463.68,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15580,9,4,4064.85,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+15581,10,9,9784.05,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15582,723,1,292.42,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15583,108,15,36058.33,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+15585,26,22,56365.75,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15586,489,2,316.84,1,3,2,6,Price Sensitive,Medium Value,0,0,0,<£500
+15587,318,2,748.05,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+15588,709,1,30.9,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15590,133,3,1474.33,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+15591,31,8,9233.73,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15592,12,9,9136.1,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15594,500,1,271.29,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15595,689,1,549.49,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+15597,475,2,864.71,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+15598,99,1,654.71,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+15599,151,15,43727.77,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+15600,184,3,1767.65,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+15603,221,2,290.11,2,3,2,7,Price Sensitive,Medium Value,0,0,0,<£500
+15604,96,2,179.43,3,3,1,7,Price Sensitive,Medium Value,0,0,0,<£500
+15606,243,3,1348.04,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+15607,29,8,24070.58,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15608,91,6,6172.94,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15611,710,1,173.18,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15612,191,9,8011.15,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15613,385,4,4236.11,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+15616,267,1,50.05,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15618,45,7,20012.5,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15620,436,1,161.16,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15621,332,3,1068.3,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+15622,285,2,252.2,2,3,1,6,Price Sensitive,Medium Value,0,0,0,<£500
+15624,81,19,57678.74,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15625,40,3,2367.64,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+15626,3,5,6288.78,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+15627,365,3,1333.78,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+15628,576,2,1764.04,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+15629,254,1,43.7,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15630,76,4,1280.18,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+15631,212,3,1512.41,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+15632,23,14,35398.01,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15633,587,1,306.36,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15634,147,3,1235.32,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+15635,92,3,704.08,3,4,2,9,Price Sensitive,High Value,0,0,0,£500-2K
+15637,217,1,682.73,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+15639,227,3,1612.91,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+15640,35,12,12190.5,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15642,622,2,1047.04,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+15643,398,2,1707.29,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+15644,13,5,4306.43,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+15646,14,5,4610.58,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+15649,428,3,1046.79,1,4,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15653,283,1,42.32,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15654,439,1,134.42,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15655,179,2,399.5,3,3,2,8,Price Sensitive,Medium Value,0,0,0,<£500
+15657,419,1,411.44,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15658,723,1,56.43,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15659,155,2,507.38,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+15661,30,1,60.75,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+15662,123,5,6022.42,3,4,5,12,Loyal Customers,Champions,0,0,0,£5K-10K
+15667,46,16,36397.28,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15668,222,3,1103.61,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+15669,113,2,502.8,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+15671,56,5,12933.02,4,4,5,13,Champions,Champions,0,1,0,£10K+
+15674,18,8,5959.27,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15675,481,2,892.35,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+15676,349,2,885.38,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15678,54,1,762.88,4,2,2,8,New Customers,Medium Value,0,0,0,£500-2K
+15679,90,4,2551.49,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15681,65,5,3910.63,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+15682,356,2,534.7,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+15683,71,3,505.2,4,4,2,10,Price Sensitive,High Value,0,0,0,£500-2K
+15684,389,2,632.38,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+15685,426,1,214.8,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15686,104,2,923.69,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15687,410,1,261.8,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15688,441,1,32.69,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15689,26,6,4456.82,5,5,4,14,Champions,Champions,0,1,0,£2K-5K
+15690,178,7,7535.18,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15691,453,2,504.29,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+15694,28,1,121.02,5,2,1,8,New Customers,Medium Value,0,0,0,<£500
+15695,728,1,550.3,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+15696,488,2,1961.55,1,3,4,8,At Risk,Medium Value,1,0,0,£500-2K
+15697,102,6,2580.51,3,5,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+15699,208,2,770.16,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+15701,253,6,5965.11,2,5,5,12,At Risk,Champions,1,0,0,£5K-10K
+15704,97,2,1898.78,3,3,4,10,Loyal Customers,High Value,0,0,0,£500-2K
+15705,42,3,863.22,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+15707,39,3,1045.83,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+15708,495,1,487.74,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15709,130,7,7542.11,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15711,195,2,2497.09,3,3,4,10,Loyal Customers,High Value,0,0,0,£2K-5K
+15713,183,1,267.33,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+15715,60,1,62.7,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+15717,443,4,1487.38,1,4,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15720,105,2,1263.71,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15722,338,1,151.8,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15723,225,2,107.76,2,3,1,6,Price Sensitive,Medium Value,0,0,0,<£500
+15724,10,2,1487.89,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+15725,94,2,894.96,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15726,47,11,27650.69,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15727,523,4,1501.92,1,4,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15728,50,1,102.85,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+15729,270,1,209.5,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15730,55,4,1908.94,4,4,4,12,Champions,Champions,0,1,0,£500-2K
+15732,298,2,983.82,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15733,131,5,3280.99,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15734,58,6,5125.35,4,5,4,13,Champions,Champions,0,1,0,£5K-10K
+15735,117,20,57605.12,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+15737,648,1,97.5,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15738,134,1,131.13,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+15739,221,2,2634.58,2,3,4,9,At Risk,High Value,1,0,0,£2K-5K
+15740,190,1,67.76,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+15741,124,5,2032.84,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15742,2,3,1116.04,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+15743,39,20,59463.0,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15744,28,5,5282.66,5,4,4,13,Champions,Champions,0,1,0,£5K-10K
+15745,53,3,1375.4,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+15746,60,9,8429.31,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15748,344,2,722.73,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+15749,63,4,2395.79,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+15750,146,7,7125.58,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15752,22,13,12342.73,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15755,628,2,1393.99,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+15756,164,3,1042.81,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+15757,14,26,72159.82,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15758,376,1,216.92,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15759,5,6,2968.0,5,5,4,14,Champions,Champions,0,1,0,£2K-5K
+15760,13,4,2671.82,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+15761,13,3,2191.4,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+15762,371,1,65.08,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15764,81,5,5017.22,4,4,4,12,Champions,Champions,0,1,0,£5K-10K
+15765,132,1,74.27,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+15766,428,1,98.67,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15768,161,8,9125.96,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15769,515,2,266.42,1,3,1,5,Price Sensitive,Low Value,0,0,0,<£500
+15770,95,2,256.68,3,3,1,7,Price Sensitive,Medium Value,0,0,0,<£500
+15771,3,6,6373.25,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15772,716,1,8.12,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15773,393,3,1577.09,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+15775,45,3,3043.25,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+15776,13,1,138.26,5,2,1,8,New Customers,Medium Value,0,0,0,<£500
+15777,214,4,1256.76,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+15779,128,2,836.82,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15782,643,1,328.5,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15785,205,4,2026.84,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15786,356,2,1487.72,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15787,104,2,88.75,3,3,1,7,Price Sensitive,Medium Value,0,0,0,<£500
+15788,13,4,1555.95,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+15789,4,19,43822.47,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15790,17,2,938.54,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+15791,301,3,1171.92,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+15792,8,5,1654.24,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+15793,12,5,5169.89,5,4,4,13,Champions,Champions,0,1,0,£5K-10K
+15795,30,1,68.53,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+15796,270,5,5497.5,2,4,4,10,At Risk,High Value,1,0,0,£5K-10K
+15798,9,2,280.43,5,3,1,9,Price Sensitive,High Value,0,0,0,<£500
+15800,7,12,26773.89,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15801,99,5,1742.19,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+15804,456,1,129.03,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15806,5,6,8849.21,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15807,111,1,600.44,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+15808,489,3,665.19,1,4,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+15809,9,8,6254.69,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15811,8,9,8368.47,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15812,28,2,783.74,5,3,2,10,Price Sensitive,High Value,0,0,0,£500-2K
+15814,12,7,7894.35,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15818,277,3,2311.94,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+15819,552,2,1444.37,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+15820,17,3,1737.13,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+15821,189,2,199.98,3,3,1,7,Price Sensitive,Medium Value,0,0,0,<£500
+15822,375,2,827.71,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15824,158,10,10337.29,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+15826,61,21,56592.0,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15827,2,2,363.58,5,3,2,10,Price Sensitive,High Value,0,0,0,<£500
+15829,380,1,851.29,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+15830,18,9,9752.49,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15832,542,1,447.64,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15834,230,4,2184.77,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+15835,129,2,1360.43,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15838,17,4,2884.64,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+15840,183,2,1109.44,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15841,624,1,204.85,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15842,10,9,7098.24,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15843,254,2,725.23,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+15844,560,1,498.89,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15845,24,11,23059.24,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15846,413,3,1721.81,1,4,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15848,162,1,509.77,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+15849,229,1,109.95,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15851,84,10,27184.9,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15852,250,1,219.64,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15854,37,1,95.1,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+15855,16,3,1162.93,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+15856,103,6,6073.08,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15861,274,1,323.5,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+15863,634,1,436.85,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15864,101,2,892.27,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+15867,172,4,2358.93,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15868,37,2,1600.01,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+15869,40,8,8284.18,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15871,142,6,7327.94,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15872,128,1,154.4,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+15873,736,1,364.72,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15874,333,3,1505.03,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+15875,141,1,155.4,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+15876,171,7,8571.57,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15877,470,1,71.6,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15878,269,1,79.6,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15880,26,10,8695.15,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15885,346,1,67.1,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15888,26,5,3014.93,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+15889,258,3,871.11,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+15890,243,4,2834.31,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+15891,219,2,751.85,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+15892,125,5,2430.69,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15893,56,3,1660.8,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+15895,17,5,4444.55,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+15896,705,1,44.91,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15897,1,6,5865.54,5,5,4,14,Champions,Champions,0,1,0,£5K-10K
+15898,256,4,2232.66,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+15899,28,12,11787.84,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15900,85,3,1479.15,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+15903,409,3,1811.43,1,4,4,9,At Risk,High Value,1,0,0,£500-2K
+15904,9,4,2191.52,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+15905,28,3,2846.13,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+15911,74,15,46540.44,4,5,5,14,Champions,Champions,0,1,0,£10K+
+15912,183,3,1831.61,3,4,4,11,Loyal Customers,High Value,0,0,0,£500-2K
+15915,65,1,470.85,4,2,2,8,New Customers,Medium Value,0,0,0,<£500
+15917,68,4,1864.16,4,4,4,12,Champions,Champions,0,1,0,£500-2K
+15919,583,1,94.98,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15920,272,5,3289.7,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+15923,56,10,9581.22,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15924,579,2,348.68,1,3,2,6,Price Sensitive,Medium Value,0,0,0,<£500
+15925,26,2,662.79,5,3,2,10,Price Sensitive,High Value,0,0,0,£500-2K
+15926,596,1,481.26,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15927,352,2,909.24,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15928,308,1,69.45,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15930,547,1,520.44,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+15933,108,3,4246.99,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+15934,430,1,272.02,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15937,15,7,9023.28,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+15938,12,19,57037.78,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15939,92,9,8511.69,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+15941,102,9,11668.33,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+15942,361,2,477.57,2,3,2,7,Price Sensitive,Medium Value,0,0,0,<£500
+15944,7,16,37963.2,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15945,47,1,195.04,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+15946,557,2,1837.59,1,3,4,8,At Risk,Medium Value,1,0,0,£500-2K
+15948,40,2,545.65,4,3,2,9,Price Sensitive,High Value,0,0,0,£500-2K
+15949,347,1,82.72,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15950,353,1,365.4,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+15951,545,2,694.99,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+15952,109,12,30193.54,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+15953,99,2,234.35,3,3,1,7,Price Sensitive,Medium Value,0,0,0,<£500
+15954,362,2,1019.75,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15957,485,3,1674.93,1,4,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15958,475,1,44.16,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15959,23,1,24.55,5,2,1,8,New Customers,Medium Value,0,0,0,<£500
+15961,133,3,1904.73,3,4,4,11,Loyal Customers,High Value,0,0,0,£500-2K
+15962,551,1,492.38,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15963,346,3,2159.56,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+15964,574,1,600.36,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+15965,2,2,1226.84,5,3,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+15966,45,4,2535.94,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+15967,325,4,4434.66,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+15968,719,1,259.72,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15969,35,4,2161.53,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+15970,575,2,1957.55,1,3,4,8,At Risk,Medium Value,1,0,0,£500-2K
+15971,34,1,892.84,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+15972,345,4,1877.76,2,4,4,10,At Risk,High Value,1,0,0,£500-2K
+15973,11,1,382.68,5,2,2,9,New Customers,High Value,0,0,0,<£500
+15974,371,2,964.95,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+15975,71,1,577.81,4,2,2,8,New Customers,Medium Value,0,0,0,£500-2K
+15978,79,8,7603.56,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15980,141,2,574.94,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+15981,29,3,818.42,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+15982,13,12,31052.1,5,5,5,15,Champions,Champions,0,1,0,£10K+
+15983,26,4,1554.28,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+15985,208,1,53.76,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+15987,35,7,8247.12,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+15988,368,3,1570.61,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+15991,63,4,4634.08,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+15992,100,2,390.01,3,3,2,8,Price Sensitive,Medium Value,0,0,0,<£500
+15993,449,2,390.58,1,3,2,6,Price Sensitive,Medium Value,0,0,0,<£500
+15994,7,5,6206.63,5,4,5,14,Champions,Champions,0,1,0,£5K-10K
+15995,729,1,363.65,1,2,2,5,Lost,Low Value,0,0,1,<£500
+15996,190,6,5539.73,3,5,4,12,Loyal Customers,Champions,0,0,0,£5K-10K
+15997,512,1,74.8,1,2,1,4,Lost,Low Value,0,0,1,<£500
+15998,367,1,86.3,2,2,1,5,Lost,Low Value,0,0,1,<£500
+15999,14,5,5901.64,5,4,4,13,Champions,Champions,0,1,0,£5K-10K
+16000,50,12,33262.23,4,5,5,14,Champions,Champions,0,1,0,£10K+
+16002,113,6,5808.08,3,5,4,12,Loyal Customers,Champions,0,0,0,£5K-10K
+16004,158,3,1965.19,3,4,4,11,Loyal Customers,High Value,0,0,0,£500-2K
+16006,2,3,1341.72,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+16007,145,6,7215.87,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+16008,44,2,383.59,4,3,2,9,Price Sensitive,High Value,0,0,0,<£500
+16009,15,11,7887.72,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+16010,232,2,1086.26,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+16012,110,2,383.82,3,3,2,8,Price Sensitive,Medium Value,0,0,0,<£500
+16013,44,21,53071.57,4,5,5,14,Champions,Champions,0,1,0,£10K+
+16014,350,1,203.1,2,2,1,5,Lost,Low Value,0,0,1,<£500
+16015,61,2,1320.78,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+16017,22,1,84.1,5,2,1,8,New Customers,Medium Value,0,0,0,<£500
+16019,588,1,171.23,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16023,628,2,1127.26,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+16024,64,2,1044.81,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+16025,373,1,40.64,2,2,1,5,Lost,Low Value,0,0,1,<£500
+16026,318,2,256.77,2,3,1,6,Price Sensitive,Medium Value,0,0,0,<£500
+16028,36,7,5804.44,4,5,4,13,Champions,Champions,0,1,0,£5K-10K
+16029,81,1,311.45,4,2,2,8,New Customers,Medium Value,0,0,0,<£500
+16031,483,1,236.96,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16033,385,2,643.66,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+16039,238,1,547.33,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+16040,283,2,679.37,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+16041,381,1,75.36,2,2,1,5,Lost,Low Value,0,0,1,<£500
+16042,4,4,1438.49,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+16043,188,2,809.14,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+16045,235,1,513.6,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+16046,87,3,1334.78,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+16047,63,3,2035.43,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+16048,49,5,2100.67,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+16049,415,3,1991.4,1,4,4,9,At Risk,High Value,1,0,0,£500-2K
+16050,88,12,12955.03,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+16053,587,1,415.79,1,2,2,5,Lost,Low Value,0,0,1,<£500
+16054,23,1,679.38,5,2,2,9,New Customers,High Value,0,0,0,£500-2K
+16056,138,1,506.93,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+16057,258,4,3577.13,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+16058,210,6,5915.27,2,5,5,12,At Risk,Champions,1,0,0,£5K-10K
+16059,372,1,78.54,2,2,1,5,Lost,Low Value,0,0,1,<£500
+16061,145,3,1803.44,3,4,4,11,Loyal Customers,High Value,0,0,0,£500-2K
+16062,140,3,1667.19,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+16063,77,8,5779.53,4,5,4,13,Champions,Champions,0,1,0,£5K-10K
+16064,15,1,360.83,5,2,2,9,New Customers,High Value,0,0,0,<£500
+16066,65,10,10462.99,4,5,5,14,Champions,Champions,0,1,0,£10K+
+16067,48,4,3861.74,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+16068,424,4,3626.08,1,4,4,9,At Risk,High Value,1,0,0,£2K-5K
+16069,554,5,8617.34,1,4,5,10,At Risk,High Value,1,0,0,£5K-10K
+16071,5,6,5005.68,5,5,4,14,Champions,Champions,0,1,0,£5K-10K
+16072,24,3,1962.34,5,4,4,13,Champions,Champions,0,1,0,£500-2K
+16073,41,3,3034.43,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+16076,188,4,1228.56,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+16077,167,4,2590.86,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+16078,213,3,788.2,2,4,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+16079,380,2,790.9,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+16080,3,21,53779.2,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16081,274,1,617.09,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+16082,133,2,462.1,3,3,2,8,Price Sensitive,Medium Value,0,0,0,<£500
+16084,115,11,12968.64,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+16086,402,1,146.71,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16087,91,7,7681.55,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+16088,498,1,442.34,1,2,2,5,Lost,Low Value,0,0,1,<£500
+16089,19,7,8560.28,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+16090,252,4,2034.93,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+16091,307,3,1899.28,2,4,4,10,At Risk,High Value,1,0,0,£500-2K
+16092,685,1,273.6,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16093,367,2,1147.6,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+16095,10,8,7146.9,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+16097,66,3,702.03,4,4,2,10,Price Sensitive,High Value,0,0,0,£500-2K
+16098,111,1,885.3,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+16099,267,1,63.86,2,2,1,5,Lost,Low Value,0,0,1,<£500
+16100,206,6,6561.6,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+16102,10,5,2503.96,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+16103,391,1,192.36,2,2,1,5,Lost,Low Value,0,0,1,<£500
+16104,345,1,76.51,2,2,1,5,Lost,Low Value,0,0,1,<£500
+16105,27,4,2473.21,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+16106,683,1,316.96,1,2,2,5,Lost,Low Value,0,0,1,<£500
+16107,680,1,85.88,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16108,151,10,9850.39,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+16109,605,1,37.52,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16111,176,3,4572.97,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+16112,61,7,7982.49,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+16114,137,1,202.89,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+16115,4,3,1618.02,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+16116,26,5,5850.43,5,4,4,13,Champions,Champions,0,1,0,£5K-10K
+16117,717,1,164.45,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16118,60,5,6211.66,4,4,5,13,Champions,Champions,0,1,0,£5K-10K
+16119,719,1,261.12,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16120,500,1,65.74,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16122,88,2,673.22,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+16126,390,2,717.46,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+16128,7,11,30468.16,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16129,44,2,2482.85,4,3,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+16130,28,3,1311.7,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+16131,128,3,1169.19,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+16133,209,3,1046.2,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+16135,49,1,17.96,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+16136,63,2,400.31,4,3,2,9,Price Sensitive,High Value,0,0,0,<£500
+16137,194,4,2481.04,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+16138,361,1,50.8,2,2,1,5,Lost,Low Value,0,0,1,<£500
+16139,403,2,243.17,1,3,1,5,Price Sensitive,Low Value,0,0,0,<£500
+16140,76,8,7172.76,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+16142,218,6,7939.52,2,5,5,12,At Risk,Champions,1,0,0,£5K-10K
+16143,83,7,6580.8,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+16145,298,4,2396.54,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+16146,268,1,108.3,2,2,1,5,Lost,Low Value,0,0,1,<£500
+16147,372,2,450.72,2,3,2,7,Price Sensitive,Medium Value,0,0,0,<£500
+16148,166,2,1244.03,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+16149,398,2,1004.38,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+16150,30,1,495.53,4,2,2,8,New Customers,Medium Value,0,0,0,<£500
+16151,726,1,121.61,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16152,647,2,611.1,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+16155,1,18,43343.57,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16157,64,1,164.48,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+16159,24,12,30045.14,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16162,90,1,915.55,3,2,3,8,Potential Loyal,Medium Value,0,0,0,£500-2K
+16164,33,23,57038.48,4,5,5,14,Champions,Champions,0,1,0,£10K+
+16165,594,1,44.16,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16168,543,2,514.7,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+16169,2,15,43629.43,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16171,174,4,1081.93,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+16172,12,26,79746.21,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16174,364,3,986.93,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+16175,89,7,7080.09,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+16176,404,1,238.08,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16177,28,7,6513.87,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+16178,502,1,116.56,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16179,398,1,559.36,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+16183,736,1,300.42,1,2,2,5,Lost,Low Value,0,0,1,<£500
+16184,28,19,44262.7,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16185,400,2,361.28,1,3,2,6,Price Sensitive,Medium Value,0,0,0,<£500
+16186,484,2,1054.22,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+16188,596,1,201.26,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16189,250,3,2280.32,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+16191,33,8,8769.39,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+16192,659,1,322.99,1,2,2,5,Lost,Low Value,0,0,1,<£500
+16193,1,15,34604.98,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16195,422,8,7803.77,1,5,5,11,At Risk,High Value,1,0,0,£5K-10K
+16196,399,6,6949.58,1,5,5,11,At Risk,High Value,1,0,0,£5K-10K
+16197,231,3,971.25,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+16198,155,4,2994.57,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+16199,190,2,721.29,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+16200,547,2,121.88,1,3,1,5,Price Sensitive,Low Value,0,0,0,<£500
+16201,440,1,789.6,1,2,2,5,Lost,Low Value,0,0,1,£500-2K
+16202,16,12,33501.3,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16203,87,3,1505.86,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+16206,426,1,134.2,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16207,559,2,870.22,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+16208,192,3,1913.2,3,4,4,11,Loyal Customers,High Value,0,0,0,£500-2K
+16209,114,5,5256.69,3,4,4,11,Loyal Customers,High Value,0,0,0,£5K-10K
+16210,366,3,1430.33,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+16213,257,2,1316.97,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+16214,12,17,37011.3,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16215,36,11,13107.55,4,5,5,14,Champions,Champions,0,1,0,£10K+
+16216,34,2,497.9,4,3,2,9,Price Sensitive,High Value,0,0,0,<£500
+16217,55,1,10.05,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+16218,74,5,4469.9,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+16220,131,5,1668.53,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+16222,366,1,102.76,2,2,1,5,Lost,Low Value,0,0,1,<£500
+16223,725,1,99.77,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16225,245,1,98.37,2,2,1,5,Lost,Low Value,0,0,1,<£500
+16226,619,1,316.58,1,2,2,5,Lost,Low Value,0,0,1,<£500
+16227,199,1,104.22,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+16230,69,2,404.2,4,3,2,9,Price Sensitive,High Value,0,0,0,<£500
+16233,15,1,313.6,5,2,2,9,New Customers,High Value,0,0,0,<£500
+16234,21,7,6745.44,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+16235,28,2,719.03,5,3,2,10,Price Sensitive,High Value,0,0,0,£500-2K
+16238,306,1,1239.44,2,2,3,7,Needs Attention,Medium Value,0,0,0,£500-2K
+16239,358,1,567.99,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+16241,51,20,56907.36,4,5,5,14,Champions,Champions,0,1,0,£10K+
+16242,723,1,160.91,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16244,106,6,5161.77,3,5,4,12,Loyal Customers,Champions,0,0,0,£5K-10K
+16245,268,2,423.09,2,3,2,7,Price Sensitive,Medium Value,0,0,0,<£500
+16246,497,1,7.68,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16247,182,6,5064.23,3,5,4,12,Loyal Customers,Champions,0,0,0,£5K-10K
+16248,244,4,7240.31,2,4,5,11,At Risk,High Value,1,0,0,£5K-10K
+16250,384,3,2178.06,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+16251,37,5,2153.53,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+16252,163,6,3660.59,3,5,4,12,Loyal Customers,Champions,0,0,0,£2K-5K
+16253,602,1,76.08,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16254,52,1,434.49,4,2,2,8,New Customers,Medium Value,0,0,0,<£500
+16255,153,1,16.27,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+16256,22,10,11099.26,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16258,313,2,313.11,2,3,2,7,Price Sensitive,Medium Value,0,0,0,<£500
+16259,214,2,984.64,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+16260,6,4,2149.48,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+16261,159,2,1007.56,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+16264,145,3,2201.86,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+16266,260,1,224.2,2,2,1,5,Lost,Low Value,0,0,1,<£500
+16269,357,1,129.75,2,2,1,5,Lost,Low Value,0,0,1,<£500
+16270,36,3,2706.37,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+16272,9,14,37986.25,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16273,180,2,307.95,3,3,2,8,Price Sensitive,Medium Value,0,0,0,<£500
+16274,15,3,1491.6,5,4,3,12,Potential Loyal,Champions,0,0,0,£500-2K
+16275,160,3,1153.94,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+16276,336,1,370.8,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+16278,321,1,58.23,2,2,1,5,Lost,Low Value,0,0,1,<£500
+16280,55,5,2190.57,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+16281,130,1,432.12,3,2,2,7,Needs Attention,Medium Value,0,0,0,<£500
+16282,237,2,316.2,2,3,2,7,Price Sensitive,Medium Value,0,0,0,<£500
+16283,7,10,30985.71,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16284,599,1,156.49,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16285,84,1,223.91,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+16286,261,1,122.88,2,2,1,5,Lost,Low Value,0,0,1,<£500
+16288,353,2,218.77,2,3,1,6,Price Sensitive,Medium Value,0,0,0,<£500
+16289,358,3,2162.71,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+16290,110,4,4355.01,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+16292,416,1,1173.98,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+16293,129,8,9554.46,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+16294,598,1,467.18,1,2,2,5,Lost,Low Value,0,0,1,<£500
+16296,404,2,957.42,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+16299,75,2,1268.51,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+16300,103,2,404.44,3,3,2,8,Price Sensitive,Medium Value,0,0,0,<£500
+16301,476,1,46.54,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16302,308,1,234.86,2,2,1,5,Lost,Low Value,0,0,1,<£500
+16304,24,19,46232.28,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16306,183,2,973.17,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+16310,4,4,1889.14,5,4,4,13,Champions,Champions,0,1,0,£500-2K
+16311,37,4,3175.8,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+16312,530,1,165.14,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16313,171,4,2683.2,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+16314,148,3,1323.25,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+16315,11,2,800.05,5,3,2,10,Price Sensitive,High Value,0,0,0,£500-2K
+16316,102,5,5806.09,3,4,4,11,Loyal Customers,High Value,0,0,0,£5K-10K
+16318,84,3,3157.38,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+16321,203,1,126.21,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+16323,187,1,368.94,3,2,2,7,Needs Attention,Medium Value,0,0,0,<£500
+16324,122,1,413.4,3,2,2,7,Needs Attention,Medium Value,0,0,0,<£500
+16325,99,2,476.79,3,3,2,8,Price Sensitive,Medium Value,0,0,0,<£500
+16326,161,2,1482.96,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+16327,34,2,474.8,4,3,2,9,Price Sensitive,High Value,0,0,0,<£500
+16328,60,2,518.81,4,3,2,9,Price Sensitive,High Value,0,0,0,£500-2K
+16330,25,1,468.03,5,2,2,9,New Customers,High Value,0,0,0,<£500
+16331,501,1,391.13,1,2,2,5,Lost,Low Value,0,0,1,<£500
+16332,61,7,5601.0,4,5,4,13,Champions,Champions,0,1,0,£5K-10K
+16333,31,10,9436.09,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+16334,109,2,847.84,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+16335,48,3,1363.36,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+16336,328,4,3950.11,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+16338,14,24,66046.06,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16339,660,1,19.2,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16340,207,3,1110.69,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+16342,64,3,954.15,4,4,3,11,Potential Loyal,High Value,0,0,0,£500-2K
+16343,593,2,1336.79,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+16345,199,3,829.6,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+16346,616,1,153.35,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16347,180,8,9680.67,3,5,5,13,Loyal Customers,Champions,0,0,0,£5K-10K
+16349,118,2,708.77,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+16350,38,1,497.64,4,2,2,8,New Customers,Medium Value,0,0,0,<£500
+16351,53,1,122.2,4,2,1,7,New Customers,Medium Value,0,0,0,<£500
+16354,260,2,1062.28,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+16355,27,2,465.06,5,3,2,10,Price Sensitive,High Value,0,0,0,<£500
+16356,249,7,6246.06,2,5,5,12,At Risk,Champions,1,0,0,£5K-10K
+16358,46,2,491.77,4,3,2,9,Price Sensitive,High Value,0,0,0,<£500
+16359,590,1,914.95,1,2,3,6,Needs Attention,Medium Value,0,0,0,£500-2K
+16360,80,9,11540.84,4,5,5,14,Champions,Champions,0,1,0,£10K+
+16361,171,5,2388.87,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+16363,373,2,782.47,2,3,2,7,Price Sensitive,Medium Value,0,0,0,£500-2K
+16364,26,3,1996.59,5,4,4,13,Champions,Champions,0,1,0,£500-2K
+16365,18,17,40704.56,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16366,64,4,2484.04,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+16367,144,1,221.62,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+16369,428,1,235.94,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16371,417,1,311.01,1,2,2,5,Lost,Low Value,0,0,1,<£500
+16372,26,10,23323.26,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16373,192,1,467.43,3,2,2,7,Needs Attention,Medium Value,0,0,0,<£500
+16377,65,3,2366.32,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+16378,148,3,1311.74,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+16379,198,2,774.1,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+16383,510,2,1029.93,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+16384,419,1,389.74,1,2,2,5,Lost,Low Value,0,0,1,<£500
+16385,424,1,367.28,1,2,2,5,Lost,Low Value,0,0,1,<£500
+16386,423,2,1539.28,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+16387,504,1,287.82,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16388,10,20,47745.08,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16389,16,13,12088.48,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16392,582,2,657.79,1,3,2,6,Price Sensitive,Medium Value,0,0,0,£500-2K
+16393,252,1,308.5,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+16394,189,3,1220.92,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+16396,729,1,254.27,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16397,223,1,297.45,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+16399,317,2,268.74,2,3,1,6,Price Sensitive,Medium Value,0,0,0,<£500
+16400,37,5,3174.53,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+16401,13,5,2050.88,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+16402,505,1,331.44,1,2,2,5,Lost,Low Value,0,0,1,<£500
+16404,5,1,146.12,5,2,1,8,New Customers,Medium Value,0,0,0,<£500
+16405,537,3,3566.46,1,4,4,9,At Risk,High Value,1,0,0,£2K-5K
+16406,23,2,797.52,5,3,2,10,Price Sensitive,High Value,0,0,0,£500-2K
+16408,466,1,416.51,1,2,2,5,Lost,Low Value,0,0,1,<£500
+16409,123,1,28.44,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+16410,95,5,2715.8,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+16411,68,4,3716.87,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+16413,369,2,204.82,2,3,1,6,Price Sensitive,Medium Value,0,0,0,<£500
+16417,55,4,3771.58,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+16419,73,3,1913.44,4,4,4,12,Champions,Champions,0,1,0,£500-2K
+16420,197,2,97.72,3,3,1,7,Price Sensitive,Medium Value,0,0,0,<£500
+16421,260,2,180.43,2,3,1,6,Price Sensitive,Medium Value,0,0,0,<£500
+16424,35,8,8443.55,4,5,5,14,Champions,Champions,0,1,0,£5K-10K
+16425,29,3,2194.32,5,4,4,13,Champions,Champions,0,1,0,£2K-5K
+16426,351,3,3089.72,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+16428,500,2,1725.06,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+16433,304,2,1006.09,2,3,3,8,At Risk,Medium Value,1,0,0,£500-2K
+16434,453,3,2341.05,1,4,4,9,At Risk,High Value,1,0,0,£2K-5K
+16435,294,3,789.32,2,4,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+16436,372,1,31.13,2,2,1,5,Lost,Low Value,0,0,1,<£500
+16441,387,1,576.32,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+16442,546,2,283.78,1,3,1,5,Price Sensitive,Low Value,0,0,0,<£500
+16444,378,1,457.34,2,2,2,6,Lost,Medium Value,0,0,1,<£500
+16446,61,2,887.19,4,3,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+16447,332,1,13.35,2,2,1,5,Lost,Low Value,0,0,1,<£500
+16448,64,1,712.73,4,2,2,8,New Customers,Medium Value,0,0,0,£500-2K
+16450,133,1,367.35,3,2,2,7,Needs Attention,Medium Value,0,0,0,<£500
+16451,65,2,452.3,4,3,2,9,Price Sensitive,High Value,0,0,0,<£500
+16453,76,5,2274.29,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+16454,190,1,264.16,3,2,1,6,Needs Attention,Medium Value,0,0,0,<£500
+16455,54,1,348.8,4,2,2,8,New Customers,Medium Value,0,0,0,<£500
+16456,177,1,580.14,3,2,2,7,Needs Attention,Medium Value,0,0,0,£500-2K
+16457,410,2,1014.08,1,3,3,7,At Risk,Medium Value,1,0,0,£500-2K
+16458,234,4,1349.02,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+16460,328,4,2144.75,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+16461,75,6,5344.41,4,5,4,13,Champions,Champions,0,1,0,£5K-10K
+16465,54,3,751.15,4,4,2,10,Price Sensitive,High Value,0,0,0,£500-2K
+16466,97,3,395.78,3,4,2,9,Price Sensitive,High Value,0,0,0,<£500
+16467,13,2,1911.46,5,3,4,12,Loyal Customers,Champions,0,0,0,£500-2K
+16468,396,3,1510.6,2,4,3,9,At Risk,High Value,1,0,0,£500-2K
+16470,388,1,261.44,2,2,1,5,Lost,Low Value,0,0,1,<£500
+16471,111,2,685.13,3,3,2,8,Price Sensitive,Medium Value,0,0,0,£500-2K
+16472,48,5,4249.49,4,4,4,12,Champions,Champions,0,1,0,£2K-5K
+16473,163,3,1309.84,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+16474,6,8,6365.34,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+16475,4,10,10045.61,5,5,5,15,Champions,Champions,0,1,0,£10K+
+16477,320,1,650.82,2,2,2,6,Lost,Medium Value,0,0,1,£500-2K
+16481,613,1,56.56,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16482,554,1,68.49,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16483,50,1,989.9,4,2,3,9,New Customers,High Value,0,0,0,£500-2K
+16487,200,5,4449.17,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+16488,115,2,998.59,3,3,3,9,Potential Loyal,High Value,0,0,0,£500-2K
+16489,111,4,1595.44,3,4,3,10,Potential Loyal,High Value,0,0,0,£500-2K
+16490,106,3,2122.86,3,4,4,11,Loyal Customers,High Value,0,0,0,£2K-5K
+16492,88,13,36467.58,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+
+16493,15,9,8865.7,5,5,5,15,Champions,Champions,0,1,0,£5K-10K
+16494,233,4,2326.14,2,4,4,10,At Risk,High Value,1,0,0,£2K-5K
+16495,121,5,6028.78,3,4,5,12,Loyal Customers,Champions,0,0,0,£5K-10K
+16496,625,1,194.92,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16498,574,1,282.58,1,2,1,4,Lost,Low Value,0,0,1,<£500
+16499,103,11,28758.35,3,5,5,13,Loyal Customers,Champions,0,0,0,£10K+

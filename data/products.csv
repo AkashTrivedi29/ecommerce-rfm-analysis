@@ -1,0 +1,181 @@
+StockCode,Description,Category,UnitPrice
+20000,Home Decor Item 01,Home Decor,10.93
+20001,Home Decor Item 02,Home Decor,23.89
+20002,Home Decor Item 03,Home Decor,18.97
+20003,Home Decor Item 04,Home Decor,15.97
+20004,Home Decor Item 05,Home Decor,6.01
+20005,Home Decor Item 06,Home Decor,6.01
+20006,Home Decor Item 07,Home Decor,3.81
+20007,Home Decor Item 08,Home Decor,21.99
+20008,Home Decor Item 09,Home Decor,16.03
+20009,Home Decor Item 10,Home Decor,18.43
+20010,Home Decor Item 11,Home Decor,2.96
+20011,Home Decor Item 12,Home Decor,24.32
+20012,Home Decor Item 13,Home Decor,21.23
+20013,Home Decor Item 14,Home Decor,7.28
+20014,Home Decor Item 15,Home Decor,6.59
+20015,Home Decor Item 16,Home Decor,6.63
+20016,Home Decor Item 17,Home Decor,9.35
+20017,Home Decor Item 18,Home Decor,14.31
+20018,Home Decor Item 19,Home Decor,12.22
+20019,Home Decor Item 20,Home Decor,9.05
+20020,Home Decor Item 21,Home Decor,16.27
+20021,Home Decor Item 22,Home Decor,5.64
+20022,Home Decor Item 23,Home Decor,9.07
+20023,Home Decor Item 24,Home Decor,10.74
+20024,Home Decor Item 25,Home Decor,12.76
+20025,Home Decor Item 26,Home Decor,20.17
+20026,Home Decor Item 27,Home Decor,6.99
+20027,Home Decor Item 28,Home Decor,14.07
+20028,Home Decor Item 29,Home Decor,15.83
+20029,Home Decor Item 30,Home Decor,3.55
+20030,Home Decor Item 31,Home Decor,16.17
+20031,Home Decor Item 32,Home Decor,6.34
+20032,Home Decor Item 33,Home Decor,3.96
+20033,Home Decor Item 34,Home Decor,23.85
+20034,Home Decor Item 35,Home Decor,24.23
+20035,Home Decor Item 36,Home Decor,20.69
+20036,Home Decor Item 37,Home Decor,9.35
+20037,Home Decor Item 38,Home Decor,4.7
+20038,Home Decor Item 39,Home Decor,17.9
+20039,Home Decor Item 40,Home Decor,12.4
+20040,Kitchenware Item 01,Kitchenware,3.36
+20041,Kitchenware Item 02,Kitchenware,9.79
+20042,Kitchenware Item 03,Kitchenware,1.84
+20043,Kitchenware Item 04,Kitchenware,16.94
+20044,Kitchenware Item 05,Kitchenware,5.71
+20045,Kitchenware Item 06,Kitchenware,12.68
+20046,Kitchenware Item 07,Kitchenware,6.63
+20047,Kitchenware Item 08,Kitchenware,10.22
+20048,Kitchenware Item 09,Kitchenware,10.68
+20049,Kitchenware Item 10,Kitchenware,4.44
+20050,Kitchenware Item 11,Kitchenware,17.98
+20051,Kitchenware Item 12,Kitchenware,14.62
+20052,Kitchenware Item 13,Kitchenware,17.46
+20053,Kitchenware Item 14,Kitchenware,16.69
+20054,Kitchenware Item 15,Kitchenware,11.56
+20055,Kitchenware Item 16,Kitchenware,17.15
+20056,Kitchenware Item 17,Kitchenware,2.78
+20057,Kitchenware Item 18,Kitchenware,4.63
+20058,Kitchenware Item 19,Kitchenware,2.03
+20059,Kitchenware Item 20,Kitchenware,6.86
+20060,Kitchenware Item 21,Kitchenware,7.95
+20061,Kitchenware Item 22,Kitchenware,5.93
+20062,Kitchenware Item 23,Kitchenware,15.55
+20063,Kitchenware Item 24,Kitchenware,7.4
+20064,Kitchenware Item 25,Kitchenware,6.1
+20065,Kitchenware Item 26,Kitchenware,10.61
+20066,Kitchenware Item 27,Kitchenware,3.68
+20067,Kitchenware Item 28,Kitchenware,15.09
+20068,Kitchenware Item 29,Kitchenware,2.54
+20069,Kitchenware Item 30,Kitchenware,18.27
+20070,Kitchenware Item 31,Kitchenware,14.57
+20071,Kitchenware Item 32,Kitchenware,4.68
+20072,Kitchenware Item 33,Kitchenware,1.35
+20073,Kitchenware Item 34,Kitchenware,15.32
+20074,Kitchenware Item 35,Kitchenware,13.44
+20075,Seasonal/Gifts Item 01,Seasonal/Gifts,25.75
+20076,Seasonal/Gifts Item 02,Seasonal/Gifts,27.19
+20077,Seasonal/Gifts Item 03,Seasonal/Gifts,3.38
+20078,Seasonal/Gifts Item 04,Seasonal/Gifts,13.09
+20079,Seasonal/Gifts Item 05,Seasonal/Gifts,4.81
+20080,Seasonal/Gifts Item 06,Seasonal/Gifts,30.32
+20081,Seasonal/Gifts Item 07,Seasonal/Gifts,22.14
+20082,Seasonal/Gifts Item 08,Seasonal/Gifts,12.15
+20083,Seasonal/Gifts Item 09,Seasonal/Gifts,3.02
+20084,Seasonal/Gifts Item 10,Seasonal/Gifts,11.47
+20085,Seasonal/Gifts Item 11,Seasonal/Gifts,11.96
+20086,Seasonal/Gifts Item 12,Seasonal/Gifts,25.77
+20087,Seasonal/Gifts Item 13,Seasonal/Gifts,22.62
+20088,Seasonal/Gifts Item 14,Seasonal/Gifts,31.15
+20089,Seasonal/Gifts Item 15,Seasonal/Gifts,16.98
+20090,Seasonal/Gifts Item 16,Seasonal/Gifts,4.93
+20091,Seasonal/Gifts Item 17,Seasonal/Gifts,25.21
+20092,Seasonal/Gifts Item 18,Seasonal/Gifts,26.83
+20093,Seasonal/Gifts Item 19,Seasonal/Gifts,20.02
+20094,Seasonal/Gifts Item 20,Seasonal/Gifts,27.18
+20095,Seasonal/Gifts Item 21,Seasonal/Gifts,17.71
+20096,Seasonal/Gifts Item 22,Seasonal/Gifts,18.7
+20097,Seasonal/Gifts Item 23,Seasonal/Gifts,15.45
+20098,Seasonal/Gifts Item 24,Seasonal/Gifts,1.72
+20099,Seasonal/Gifts Item 25,Seasonal/Gifts,4.53
+20100,Seasonal/Gifts Item 26,Seasonal/Gifts,1.92
+20101,Seasonal/Gifts Item 27,Seasonal/Gifts,22.58
+20102,Seasonal/Gifts Item 28,Seasonal/Gifts,11.59
+20103,Seasonal/Gifts Item 29,Seasonal/Gifts,18.22
+20104,Seasonal/Gifts Item 30,Seasonal/Gifts,31.84
+20105,Stationery Item 01,Stationery,2.5
+20106,Stationery Item 02,Stationery,3.84
+20107,Stationery Item 03,Stationery,6.71
+20108,Stationery Item 04,Stationery,2.33
+20109,Stationery Item 05,Stationery,1.06
+20110,Stationery Item 06,Stationery,2.83
+20111,Stationery Item 07,Stationery,1.76
+20112,Stationery Item 08,Stationery,8.16
+20113,Stationery Item 09,Stationery,7.15
+20114,Stationery Item 10,Stationery,5.7
+20115,Stationery Item 11,Stationery,7.68
+20116,Stationery Item 12,Stationery,7.11
+20117,Stationery Item 13,Stationery,1.97
+20118,Stationery Item 14,Stationery,7.86
+20119,Stationery Item 15,Stationery,4.91
+20120,Stationery Item 16,Stationery,7.15
+20121,Stationery Item 17,Stationery,7.88
+20122,Stationery Item 18,Stationery,3.07
+20123,Stationery Item 19,Stationery,1.34
+20124,Stationery Item 20,Stationery,2.32
+20125,Stationery Item 21,Stationery,3.98
+20126,Stationery Item 22,Stationery,7.23
+20127,Stationery Item 23,Stationery,7.59
+20128,Stationery Item 24,Stationery,0.48
+20129,Stationery Item 25,Stationery,4.67
+20130,Garden & Outdoor Item 01,Garden & Outdoor,11.22
+20131,Garden & Outdoor Item 02,Garden & Outdoor,7.61
+20132,Garden & Outdoor Item 03,Garden & Outdoor,5.72
+20133,Garden & Outdoor Item 04,Garden & Outdoor,9.75
+20134,Garden & Outdoor Item 05,Garden & Outdoor,20.94
+20135,Garden & Outdoor Item 06,Garden & Outdoor,9.48
+20136,Garden & Outdoor Item 07,Garden & Outdoor,13.1
+20137,Garden & Outdoor Item 08,Garden & Outdoor,16.51
+20138,Garden & Outdoor Item 09,Garden & Outdoor,10.23
+20139,Garden & Outdoor Item 10,Garden & Outdoor,21.48
+20140,Garden & Outdoor Item 11,Garden & Outdoor,21.31
+20141,Garden & Outdoor Item 12,Garden & Outdoor,8.16
+20142,Garden & Outdoor Item 13,Garden & Outdoor,12.7
+20143,Garden & Outdoor Item 14,Garden & Outdoor,9.07
+20144,Garden & Outdoor Item 15,Garden & Outdoor,8.77
+20145,Garden & Outdoor Item 16,Garden & Outdoor,4.18
+20146,Garden & Outdoor Item 17,Garden & Outdoor,14.78
+20147,Garden & Outdoor Item 18,Garden & Outdoor,12.8
+20148,Garden & Outdoor Item 19,Garden & Outdoor,4.45
+20149,Garden & Outdoor Item 20,Garden & Outdoor,8.65
+20150,Children's Items Item 01,Children's Items,13.76
+20151,Children's Items Item 02,Children's Items,4.73
+20152,Children's Items Item 03,Children's Items,3.46
+20153,Children's Items Item 04,Children's Items,8.11
+20154,Children's Items Item 05,Children's Items,14.81
+20155,Children's Items Item 06,Children's Items,4.77
+20156,Children's Items Item 07,Children's Items,10.57
+20157,Children's Items Item 08,Children's Items,11.78
+20158,Children's Items Item 09,Children's Items,4.71
+20159,Children's Items Item 10,Children's Items,11.33
+20160,Children's Items Item 11,Children's Items,6.47
+20161,Children's Items Item 12,Children's Items,10.04
+20162,Children's Items Item 13,Children's Items,10.05
+20163,Children's Items Item 14,Children's Items,8.73
+20164,Children's Items Item 15,Children's Items,2.72
+20165,Candles & Fragrance Item 01,Candles & Fragrance,23.76
+20166,Candles & Fragrance Item 02,Candles & Fragrance,10.51
+20167,Candles & Fragrance Item 03,Candles & Fragrance,7.05
+20168,Candles & Fragrance Item 04,Candles & Fragrance,3.3
+20169,Candles & Fragrance Item 05,Candles & Fragrance,17.47
+20170,Candles & Fragrance Item 06,Candles & Fragrance,19.7
+20171,Candles & Fragrance Item 07,Candles & Fragrance,2.68
+20172,Candles & Fragrance Item 08,Candles & Fragrance,15.44
+20173,Candles & Fragrance Item 09,Candles & Fragrance,8.08
+20174,Candles & Fragrance Item 10,Candles & Fragrance,18.86
+20175,Candles & Fragrance Item 11,Candles & Fragrance,6.74
+20176,Candles & Fragrance Item 12,Candles & Fragrance,20.04
+20177,Candles & Fragrance Item 13,Candles & Fragrance,12.21
+20178,Candles & Fragrance Item 14,Candles & Fragrance,26.37
+20179,Candles & Fragrance Item 15,Candles & Fragrance,5.79

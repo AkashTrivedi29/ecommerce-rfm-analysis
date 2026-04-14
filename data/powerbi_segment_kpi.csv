@@ -1,0 +1,9 @@
+Segment,Customers,Total_Revenue,Avg_Revenue,Avg_Recency,Avg_Frequency,Revenue_Share_Pct,Customer_Share_Pct,Priority
+Champions,719,11870252.23,16509.39,32.4,9.28,74.47,23.66,1
+Loyal Customers,326,2272967.35,6972.29,119.96,5.59,14.26,10.73,2
+Potential Loyal,290,375479.37,1294.76,86.42,2.96,2.36,9.54,3
+New Customers,248,132792.38,535.45,38.22,1.38,0.83,8.16,4
+At Risk,329,834356.04,2536.04,345.19,3.5,5.23,10.83,5
+Needs Attention,246,167501.91,680.9,249.01,1.39,1.05,8.09,7
+Price Sensitive,192,95328.75,496.5,242.21,2.16,0.6,6.32,8
+Lost,689,190891.12,277.06,470.54,1.11,1.2,22.67,9
