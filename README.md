@@ -155,12 +155,3 @@ python notebooks/03_powerbi_export.py
 | GitHub | Version control + portfolio |
 
 ---
-
-## About
-
-Part of a **7-day Canadian Data Analyst Portfolio Sprint** — building production-ready projects aligned with Canadian employer expectations.
-
-**Target roles:** Junior Data Analyst · CRM Analyst · Revenue Analyst · Business Analyst
-**NOC Code:** 21223 — Data Analyst (TEER 2, CEC eligible)
-
-*Data modelled after UCI Online Retail II Dataset. Original dataset: Chen et al. (2019), UCI ML Repository.*
