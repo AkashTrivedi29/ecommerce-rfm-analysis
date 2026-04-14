@@ -2,8 +2,7 @@
 
 > **Tools:** Python · Pandas · Matplotlib · Seaborn · Power BI
 > **Data:** Modelled after UCI Online Retail II Dataset (Chen et al., 2019) — 115K+ transactions
-> **Author:** Akash Trivedi · [LinkedIn](https://www.linkedin.com/in/at2924/) · [Tableau Public](https://public.tableau.com/app/profile/akash.trivedi4762)
-
+> **Author:** Akash Trivedi · [LinkedIn](https://www.linkedin.com/in/at2924/) · 
 ---
 
 ## Business Question
